@@ -34,5 +34,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 |**Week 1**|
 | Orientation | [Video](https://youtu.be/-k6MLftQ4hM) | [Quiz](https://forms.gle/gMa59CCCq3AATXX58)|
 | Labs: Defining Methods & Return Values | [Video](https://youtu.be/eMrm6tzlrqo) |
+| OOH: Defining Methods (continued) & Tip-calculator | [Video](https://youtu.be/gwZyBAd4g5w) |
+| Labs: If Statements && Ternary Operators | [Video](https://youtu.be/nMd4MmNffdQ) |
 | Pair Programming| [Video](https://#)|[Quiz](https://#)|
 | If Statements/ Ternary Operators | [Video](https://#)| [Code](https://#)
