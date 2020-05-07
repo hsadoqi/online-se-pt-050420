@@ -37,4 +37,3 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | OOH: Defining Methods (continued) & Tip-calculator | [Video](https://youtu.be/gwZyBAd4g5w) |
 | Labs: If Statements && Ternary Operators | [Video](https://youtu.be/nMd4MmNffdQ) |
 | Pair Programming| [Video](https://#)|[Quiz](https://#)|
-| If Statements/ Ternary Operators | [Video](https://#)| [Code](https://#)
