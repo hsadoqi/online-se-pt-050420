@@ -36,4 +36,6 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Labs: Defining Methods & Return Values | [Video](https://youtu.be/eMrm6tzlrqo) |
 | OOH: Defining Methods (continued) & Tip-calculator | [Video](https://youtu.be/gwZyBAd4g5w) |
 | Labs: If Statements && Ternary Operators | [Video](https://youtu.be/nMd4MmNffdQ) |
+| Labs: While and Until Loops && Countdown to Midnight | [Video](https://youtu.be/3oBlwcjAaoY) |
+| OOH: More Loops and Conditionals | [Video](https://youtu.be/DfXegFogWag) |
 | Pair Programming| [Video](https://#)|[Quiz](https://#)|
