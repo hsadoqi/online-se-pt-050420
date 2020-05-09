@@ -38,4 +38,5 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Labs: If Statements && Ternary Operators | [Video](https://youtu.be/nMd4MmNffdQ) |
 | Labs: While and Until Loops && Countdown to Midnight | [Video](https://youtu.be/3oBlwcjAaoY) |
 | OOH: More Loops and Conditionals | [Video](https://youtu.be/DfXegFogWag) |
-| Pair Programming| [Video](https://#)|[Quiz](https://#)|
+| Pair Programming| [Video](https://www.youtube.com/watch?v=SSRXQcLr85o&feature=youtu.be)|[Quiz](https://forms.gle/KMrsZcCjN476Q4eH9)|
+| OOH: Questions and Arrays | [Video](https://youtu.be/dOWdR5eEM9U) |
