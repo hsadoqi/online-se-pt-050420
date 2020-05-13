@@ -51,4 +51,4 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Pair Programming| [Video](https://www.youtube.com/watch?v=SSRXQcLr85o&feature=youtu.be)|[Quiz](https://forms.gle/KMrsZcCjN476Q4eH9)|
 | OOH: Questions and Arrays | [Video](https://youtu.be/dOWdR5eEM9U) |
 |**Week 2**|
-| Lecture: Arrays & Iteration (Deli Counter Lab) | [Video](https://youtu.be/5MZ8FEMX3js) |
+| Lecture: Arrays & Iteration (Deli Counter Lab) | [Video](https://youtu.be/5MZ8FEMX3js) |     | [Repl](https://repl.it/@betalantz/arraysanditeration) |
