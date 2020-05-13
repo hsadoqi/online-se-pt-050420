@@ -17,6 +17,16 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 # Weekly Assignments
 
+### Week 2: May 10, 2020
+#### This week's focus:  First Mile Fundamentals
+
+1. Day 1 - Iteration (Iteration and Abstraction -  Each Lab)(58)
+2. Day 2 - Iteration Cont’d (Return from Yield Statements - Enumerators Code Challenge)(66)
+3. Day 3 - Iteration Cont’d (Prime? Lab - Sorting Lab) + Hashes (all)(75)
+4. Day 4 - Data Structures(all)(84)
+5. Day 5 - Intro to object orientation (all) + Classes and instances (all) + Instance Methods (all)(90)
+
+
 ### Week 1: May 4, 2020
 #### This week's focus:  First Mile Fundamentals
 
@@ -40,3 +50,5 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | OOH: More Loops and Conditionals | [Video](https://youtu.be/DfXegFogWag) |
 | Pair Programming| [Video](https://www.youtube.com/watch?v=SSRXQcLr85o&feature=youtu.be)|[Quiz](https://forms.gle/KMrsZcCjN476Q4eH9)|
 | OOH: Questions and Arrays | [Video](https://youtu.be/dOWdR5eEM9U) |
+|**Week 2**|
+| Lecture: Arrays & Iteration (Deli Counter Lab) | [Video](https://youtu.be/5MZ8FEMX3js) |
