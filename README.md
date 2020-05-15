@@ -52,3 +52,4 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | OOH: Questions and Arrays | [Video](https://youtu.be/dOWdR5eEM9U) |
 |**Week 2**|
 | Lecture: Arrays & Iteration (Deli Counter Lab) | [Video](https://youtu.be/5MZ8FEMX3js) |     | [Repl](https://repl.it/@betalantz/arraysanditeration) |
+| OOH: More Iterators && Hashes | [Video](https://youtu.be/RsEw1Nu0BtY) |
