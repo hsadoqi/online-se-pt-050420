@@ -8,14 +8,29 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 ## Helpful Links 
 
-1. [How to Join Learn Slack Workspace](https://help.learn.co/en/articles/492943-how-to-join-slack)
-2. [First Mile Checklist](https://docs.google.com/document/d/15FjdzgJJiQD0XzIF43_JvGLUfpaoN0fZSpv39gFNQbQ/edit) 
-3. [Zoom link for 1:1's and Study Groups](https://wework.zoom.com/my/lantzmeetingroom?pwd=Mm5JYTgzOU1JRmhaTlJmT3dKbUxxQT09)
-
+1. [Zoom link for Pods, 1:1's and Study Groups](https://wework.zoom.com/my/lantzmeetingroom?pwd=Mm5JYTgzOU1JRmhaTlJmT3dKbUxxQT09)
+2. [Link for Student Weekly Availability Calendar](https://www.when2meet.com/?9139773-MqhEY)
 
 ## Any questions or issues please DM me. 
 
 # Weekly Assignments
+
+### Week 3: May 18, 2020
+#### This week's focus:  First Mile Fundamentals
+
+1. Day 1 -  Object Oriented Ruby: Object Properties (up to Object Attributes Lesson)(93)
+2. Day 2 -  Object Oriented Ruby: Object Properties (Object Attributes Lab - Video Review: Object Properties)(97)
+3. Day 3 - Object Oriented Ruby: Object Lifecycle (102)
+4. Day 4 -  Object Oriented Ruby: Object’s Self (104)
+5. Day 5 -  Object Oriented Ruby: Class Variables and Methods (107)
+
+##### Next week:
+
+1. Day 1 -  Object Oriented Ruby: Object Models (112)
+2. Day 2 -  Object Oriented Ruby: OO Tic Tac Toe (114)
+3. Day 3 - Object Oriented Ruby: Object Labs (117)
+4. Day 4 - Object Oriented Ruby: Object Relationships (Has Many Object Lab) (121)
+5. Day 5 - Object Oriented Ruby: Object Relationships (Collaborating Objects Review) (124)
 
 ### Week 2: May 10, 2020
 #### This week's focus:  First Mile Fundamentals
@@ -36,6 +51,16 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 3. Day 3 (Wed) - Booleans (all) + Logic and Conditionals (all)(35)
 4. Day 4 (Thur) - Looping (all)(43)
 5. Day 5 (Fri) - Arrays (all)(48)
+
+# Pod Assignments
+
+| Pod Name | Date & Time | Students |
+| TBA | TBA | TBA 
+
+# Pair Programming Assignments
+
+| Student | Student | Student |
+| TBA | TBA | TBA
 
 # Study Group Videos and Code
 
