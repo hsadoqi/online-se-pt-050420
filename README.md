@@ -55,12 +55,14 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 # Pod Assignments
 
 | Pod Name | Date & Time | Students |
-| TBA | TBA | TBA 
+| ----- | ----- | ----- |
+| TBA | TBA | TBA |
 
 # Pair Programming Assignments
 
 | Student | Student | Student |
-| TBA | TBA | TBA
+| ----- | ----- | ----- |
+| TBA | TBA | TBA |
 
 # Study Group Videos and Code
 
