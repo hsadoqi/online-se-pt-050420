@@ -11,9 +11,9 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 1. [Zoom link for Pods, 1:1's and Study Groups](https://wework.zoom.com/my/lantzmeetingroom?pwd=Mm5JYTgzOU1JRmhaTlJmT3dKbUxxQT09)
 2. [Link for Student Weekly Availability Calendar](https://www.when2meet.com/?9139773-MqhEY)
 
-## Any questions or issues please DM me. 
-## Add your weekly availability to the calendar at the link above and update whenever necessary. I will use it to schedule pods and you can use it to help organize your own study groups or extra pair programming sessions.
-## Please reserve 1:1 bookings with me for AFTER you've attended a pod meeting (whenever possible). If you still have questions after your weekly pod, then book a slot with me, but 1:1 space is limited.
+### Any questions or issues please DM me. 
+### Add your weekly availability to the calendar at the link above and update whenever necessary. I will use it to schedule pods and you can use it to help organize your own study groups or extra pair programming sessions.
+### Please reserve 1:1 bookings with me for AFTER you've attended a pod meeting (whenever possible). If you still have questions after your weekly pod, then book a slot with me, but 1:1 space is limited.
 
 # Weekly Assignments
 
@@ -55,7 +55,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 # Pod Assignments
 
-## Pods are you primary point of contact with your Cohort Lead every week. Attendance will be tracked, and it's the best way for both of us to assess your level of understanding each week.  Please come prepared with your questions and make every effort to attend each week.
+## Pods are your primary point of contact with your Cohort Lead every week. Attendance will be tracked, and it's the best way for both of us to assess your level of understanding each week.  Please come prepared with your questions and make every effort to attend each week.
 
 ### I made pod assignments as much as possible based on student availability as submitted.  With the large number of students and the low submission rate, there are likely to be further adjustments in assignments and pod times.  I appreciate your patience. 
 
@@ -71,6 +71,74 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 |  |  | Ben Parish
 |  |  | Holly Miranda
 |  |  | jassmine tatum |
+| **Hopper** | **Tuesdays, 8pm ET** | Alexander Reyes Rodriguez
+|  |  | Catheryne Small
+|  |  | Evan Bernard
+|  |  | Hannah Sandusky
+|  |  | Valentina Panic
+|  |  | Dang Nguyen
+|  |  | Luis Leandro
+|  |  | James Johnson
+|  |  | Wenhao Guo
+|  |  | Kiran Ram
+| **Fox** | **Wednesdays, 5pm ET** | Ian Bumatay
+|  |  | Andrew Witmer
+|  |  | Anthony Risch
+|  |  | Dallas Blackwell
+|  |  | Justin Zweifel
+|  |  | Ian McGowan Hutson
+|  |  | Joshua Williams
+|  |  | Anthony George
+|  |  | Hussain Ahmed
+|  |  | Tariq Sulaiman
+| **Turing** | **Wednesdays, 9pm ET** | Angel Zuniga
+|  |  | Tommy Werner
+|  |  | Zachary Lynch
+|  |  | Cedric Joaquin
+|  |  | Jesse Summer-Lavigne
+|  |  | Michael Thomas
+|  |  | Mil Flores
+|  |  | Jack Quinoa
+|  |  | Juan Vidal
+|  |  | Steven Prindle
+| **Lovelace** | **Thursdays, 11am ET** | Alexandra Oliveros
+|  |  | Brian Matheny
+|  |  | hailey putnam
+|  |  | Laila Campbell
+|  |  | Jennifer Prince
+|  |  | Matt Farncombe
+|  |  | Megan Gomes
+|  |  | Philip Humphrey
+|  |  | Samantha Barros
+| **Windsor** | **Thursdays, 5pm ET** | Thanh Pham
+|  |  | Kamille Longalong
+|  |  | Brian Craycraft
+|  |  | Victor Williams
+|  |  | Travis Lawson
+|  |  | Halle Montgomery
+|  |  | Michaelle Barbor
+|  |  | Ross Enriques
+|  |  | Keanna Salter
+|  |  | Billy Ferrara
+| **Granville** | **Fridays, 4pm ET** | Terren Culberson
+|  |  | Melissa Sperry
+|  |  | Sha-jay Perry
+|  |  | Jacob Sleman
+|  |  | Tyler Firth
+|  |  | Jalysa Reason
+|  |  | Marvin Reyes
+|  |  | Robert Leduc
+|  |  | James Kivlen
+| **Granville** | **Fridays, 6:30pm ET** | Richard Cho
+|  |  | Ryan Davey
+|  |  | Oscar Ore
+|  |  | Jonathan East
+|  |  | Chukwuemeka Kanu
+|  |  | Daniel Kwon
+|  |  | Luis F Tavarez Valdez
+|  |  | Ghameerah McCullers
+|  |  | Luis Gonzalez
+|  |  | Jeff Bai
 
 # Pair Programming Assignments
 
@@ -94,3 +162,6 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 |**Week 2**|
 | Lecture: Arrays & Iteration (Deli Counter Lab) | [Video](https://youtu.be/5MZ8FEMX3js) |     | [Repl](https://repl.it/@betalantz/arraysanditeration) |
 | OOH: More Iterators && Hashes | [Video](https://youtu.be/RsEw1Nu0BtY) |
+|**Week 3**|
+| Lecture: Intro to Object Oriented Programming | [Video](#)
+| Lecture: Object Initialization & Object Properties | [Video](#)
