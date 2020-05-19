@@ -1,7 +1,7 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzNjb3RvdjNhMXRsajRzZmY5YXRvZ2wzcDJzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23F09300&amp;title=onl01-seng-pt-050420%20Cohort%20Calendar" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Your Cohort Lead: 
-Lantz Warrick - lantz.warrick@flatironschool.com - [Booking Link](https://go.oncehub.com/LantzWarrickFirstMile11)
+Lantz Warrick - lantz.warrick@flatironschool.com - [Booking Link](https://go.oncehub.com/LantzWeekly11)
 
 ## Your Educational Coach: 
 Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](http://lauralacy-thompson.youcanbook.me/)
@@ -12,6 +12,8 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 2. [Link for Student Weekly Availability Calendar](https://www.when2meet.com/?9139773-MqhEY)
 
 ## Any questions or issues please DM me. 
+## Add your weekly availability to the calendar at the link above and update whenever necessary. I will use it to schedule pods and you can use it to help organize your own study groups or extra pair programming sessions.
+## Please reserve 1:1 bookings with me for AFTER you've attended a pod meeting (whenever possible). If you still have questions after your weekly pod, then book a slot with me, but 1:1 space is limited.
 
 # Weekly Assignments
 
@@ -41,7 +43,6 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 4. Day 4 - Data Structures(all)(84)
 5. Day 5 - Intro to object orientation (all) + Classes and instances (all) + Instance Methods (all)(90)
 
-
 ### Week 1: May 4, 2020
 #### This week's focus:  First Mile Fundamentals
 
@@ -54,9 +55,22 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 # Pod Assignments
 
+## Pods are you primary point of contact with your Cohort Lead every week. Attendance will be tracked, and it's the best way for both of us to assess your level of understanding each week.  Please come prepared with your questions and make every effort to attend each week.
+
+### I made pod assignments as much as possible based on student availability as submitted.  With the large number of students and the low submission rate, there are likely to be further adjustments in assignments and pod times.  I appreciate your patience. 
+
 | Pod Name | Date & Time | Students |
 | ----- | ----- | ----- |
-| TBA | TBA | TBA |
+| **Borg** | **Mondays, 6pm ET** | Dustin Blanton
+|  |  | Isabella Goncalves Henriques
+|  |  | Kevin Boston
+|  |  | Morgan Collado
+|  |  | Kristopher Schemel
+|  |  | Anne Fausto
+|  |  | Tim Donoghue
+|  |  | Ben Parish
+|  |  | Holly Miranda
+|  |  | jassmine tatum |
 
 # Pair Programming Assignments
 
