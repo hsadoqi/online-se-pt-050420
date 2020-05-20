@@ -81,7 +81,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 |  |  | James Johnson
 |  |  | Wenhao Guo
 |  |  | Kiran Ram
-| **Fox** | **Wednesdays, 5pm ET** | Ian Bumatay
+| **Fox** | **Wednesdays, 4pm ET** | Ian Bumatay
 |  |  | Andrew Witmer
 |  |  | Anthony Risch
 |  |  | Dallas Blackwell
