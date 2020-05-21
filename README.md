@@ -61,84 +61,54 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 | Pod Name | Date & Time | Students |
 | ----- | ----- | ----- |
-| **Borg** | **Mondays, 6pm ET** | Dustin Blanton
-|  |  | Isabella Goncalves Henriques
-|  |  | Kevin Boston
-|  |  | Morgan Collado
-|  |  | Kristopher Schemel
-|  |  | Anne Fausto
-|  |  | Tim Donoghue
-|  |  | Ben Parish
-|  |  | Holly Miranda
-|  |  | jassmine tatum |
-| **Hopper** | **Tuesdays, 8pm ET** | Alexander Reyes Rodriguez
-|  |  | Catheryne Small
-|  |  | Evan Bernard
-|  |  | Hannah Sandusky
-|  |  | Valentina Panic
-|  |  | Dang Nguyen
-|  |  | Luis Leandro
-|  |  | James Johnson
-|  |  | Wenhao Guo
-|  |  | Kiran Ram
-| **Fox** | **Wednesdays, 4pm ET** | Ian Bumatay
-|  |  | Andrew Witmer
-|  |  | Anthony Risch
-|  |  | Dallas Blackwell
-|  |  | Justin Zweifel
-|  |  | Ian McGowan Hutson
-|  |  | Joshua Williams
-|  |  | Anthony George
-|  |  | Hussain Ahmed
-|  |  | Tariq Sulaiman
-| **Turing** | **Wednesdays, 9pm ET** | Angel Zuniga
-|  |  | Tommy Werner
-|  |  | Zachary Lynch
-|  |  | Cedric Joaquin
-|  |  | Jesse Summer-Lavigne
-|  |  | Michael Thomas
-|  |  | Mil Flores
-|  |  | Jack Quinoa
-|  |  | Juan Vidal
-|  |  | Steven Prindle
-| **Lovelace** | **Thursdays, 11am ET** | Alexandra Oliveros
-|  |  | Brian Matheny
-|  |  | hailey putnam
-|  |  | Laila Campbell
-|  |  | Jennifer Prince
-|  |  | Matt Farncombe
-|  |  | Megan Gomes
-|  |  | Philip Humphrey
-|  |  | Samantha Barros
-| **Windsor** | **Thursdays, 5pm ET** | Thanh Pham
-|  |  | Kamille Longalong
-|  |  | Brian Craycraft
-|  |  | Victor Williams
-|  |  | Travis Lawson
-|  |  | Halle Montgomery
-|  |  | Michaelle Barbor
-|  |  | Ross Enriques
-|  |  | Keanna Salter
+| **Borg** | **Mondays, 6pm ET** | 
+|  | Dustin Blanton | Isabella Goncalves Henriques
+|  | Morgan Collado | Kevin Boston
+|  | Anne Fausto | Kristopher Schemel
+|  | Ben Parish | Tim Donoghue
+|  | Juan Vidal | Holly Miranda
+| **Hopper** | **Tuesdays, 8pm ET** | 
+|  | Alexander Reyes Rodriguez | Catheryne Small
+|  | Hannah Sandusky | Evan Bernard
+|  | Dang Nguyen | Valentina Panic
+|  | Tyler Firth | Luis Leandro
+|  | Wenhao Guo | James Johnson
+| **Fox** | **Wednesdays, 4pm ET** |
+|  |  Ian Bumatay | Andrew Witmer
+|  | Dallas Blackwell | Anthony Risch
+|  | Ian McGowan Hutson | Justin Zweifel
+|  | Anthony George | Joshua Williams
+|  | Tariq Sulaiman | Hussain Ahmed
+| **Turing** | **Wednesdays, 9pm ET** | 
+|  | Angel Zuniga | Tommy Werner
+|  | Cedric Joaquin | Zachary Lynch
+|  | Michael Thomas | Jesse Summer-Lavigne
+|  | Jack Quinoa | Mil Flores
+|  | Alexandra Olivera | jassmine tatum 
+| **Lovelace** | **Thursdays, 11am ET** | 
+|  | Ross Enriques | Brian Matheny
+|  | Laila Campbell | hailey putnam
+|  | Matt Farncombe | Jennifer Prince
+|  | Philip Humphrey | Megan Gomes
+|  | Steven Prindle | Samantha Barros
+| **Windsor** | **Thursdays, 5pm ET** | 
+|  | Thanh Pham | Kamille Longalong
+|  |  Victor Williams | Brian Craycraft
+|  |  Halle Montgomery | Travis Lawson
+|  | Keanna Salter | Michaelle Barbor
 |  |  | Billy Ferrara
-| **Granville** | **Fridays, 4pm ET** | Terren Culberson
-|  |  | Melissa Sperry
-|  |  | Sha-jay Perry
-|  |  | Jacob Sleman
-|  |  | Tyler Firth
-|  |  | Jalysa Reason
-|  |  | Marvin Reyes
-|  |  | Robert Leduc
+| **Granville** | **Fridays, 4pm ET** | 
+|  | Terren Culberson | Melissa Sperry
+|  | Jacob Sleman | Sha-jay Perry
+|  | Kiran Ram | Jalysa Reason
+|  | Robert Leduc | Marvin Reyes
 |  |  | James Kivlen
-| **Granville** | **Fridays, 6:30pm ET** | Richard Cho
-|  |  | Ryan Davey
-|  |  | Oscar Ore
-|  |  | Jonathan East
-|  |  | Chukwuemeka Kanu
-|  |  | Daniel Kwon
-|  |  | Luis F Tavarez Valdez
-|  |  | Ghameerah McCullers
-|  |  | Luis Gonzalez
-|  |  | Jeff Bai
+| **Granville** | **Fridays, 6:30pm ET** | 
+|  | Richard Cho | Ryan Davey
+|  | Jonathan East | Oscar Ore
+|  | Daniel Kwon | Chukwuemeka Kanu
+|  | Ghameerah McCullers | Luis F Tavarez Valdez
+|  | Jeff Bai | Luis Gonzalez
 
 # Pair Programming Assignments
 
@@ -163,5 +133,5 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Lecture: Arrays & Iteration (Deli Counter Lab) | [Video](https://youtu.be/5MZ8FEMX3js) |     | [Repl](https://repl.it/@betalantz/arraysanditeration) |
 | OOH: More Iterators && Hashes | [Video](https://youtu.be/RsEw1Nu0BtY) |
 |**Week 3**|
-| Lecture: Intro to Object Oriented Programming | [Video](#)
+| Lecture: Intro to Object Oriented Programming | [Video](https://youtu.be/uXY1A5ZjKIQ)
 | Lecture: Object Initialization & Object Properties | [Video](#)
