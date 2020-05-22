@@ -174,4 +174,4 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | OOH: More Iterators && Hashes | [Video](https://youtu.be/RsEw1Nu0BtY) |
 |**Week 3**|
 | Lecture: Intro to Object Oriented Programming | [Video](https://youtu.be/uXY1A5ZjKIQ)
-| Lecture: Object Initialization & Object Properties | [Video](#)
+| Lecture: Object Initialization & Object Properties | [Video](https://youtu.be/ys-EfbnJDnU)
