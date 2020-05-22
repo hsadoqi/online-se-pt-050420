@@ -112,6 +112,8 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 # Pair Programming Assignments
 
+### Please contact your partner below and arrange a weekly time to meet for pair programming.  You can use [this calendar](https://www.when2meet.com/?9139773-MqhEY) to help you find a time that works. If you cannot find any time, let me know and I'll help you find new partners.  If you have any questions what you should do, rewatch the video from First Mile linked below.  When you have done your pair programming for the week, please submit [this very short form](https://forms.gle/DsiBCPXm1TFU88dz5)
+
 | Student | Student | Student |
 | ----- | ----- | ----- |
 |Sha-jay Perry|Luis Gonzalez||
