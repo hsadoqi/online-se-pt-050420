@@ -114,7 +114,46 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 | Student | Student | Student |
 | ----- | ----- | ----- |
-| TBA | TBA | TBA |
+|Sha-jay Perry|Luis Gonzalez||
+|Hannah Sandusky|Megan Gomes||
+|Wenhao Guo|Jack Quinoa||
+|Victor Williams|Tyler Firth||
+|Brian Craycraft|Phil Humphrey||
+|Catheryne Small|Steven Prindle||
+|Andrew Witmer|Ryan Davey||
+|Hussain Ahmed|Tommy Werner||
+|Jeff Bai|Tariq M Sulaiman||
+|Thanh Pham|jassmine tatum||
+|Holly Miranda-Brennecke|Anthony George||
+|Samantha Barros|Ben Parish||
+|Alexander Reyes Rodriguez|Milly Flores||
+|Ghameerah McCullers|Jimmy Kivlen||
+|Valentina Panic|Jake Sleman||
+|Evan Bernard|Michaelle Barbor||
+|Robert Leduc|travis Lawson||
+|Michael Thomas|Angel Zuniga||
+|Ross Enriques|Kristopher Schemel||
+|Dustin Blanton|Morgan Collado||
+|Terren Culberson|Jalysa Reason||
+|james Johnson|Keanna Salter||
+|Kevin Boston|Jesse Summer-Lavigne||
+|Laila Campbell|Ian Hutson||
+|Marvin Reyes|Melissa Sperry||
+|Zachary Lynch|Hailey P||
+|ALEXANDRA OLIVEROS|Justin R. Zweifel||
+|isabella g henriques|Matt Farncombe||
+|kiran ram|Anne Fausto||
+|Cedric Joaquin|Carlos Barreiro||
+|Dallas Blackwell|Emeka Kanu||
+|Joshua Williams|Oscar Ore||
+|Halle Montgomery|Gladys Gutierrez||
+|Anthony Risch|Billy Ferrara||
+|Luis Leandro|Juan Vidal-Ramos||
+|Dang Nguyen|Tim Donoghue||
+|Jennifer Prince|Luis F Tavarez Valdez||
+|Kamille Longalong|Jonathan East||
+|Brian Matheny|Daniel Kwon||
+|Ian Bumatay|Richard Cho||
 
 # Study Group Videos and Code
 
