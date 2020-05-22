@@ -145,11 +145,10 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 |ALEXANDRA OLIVEROS|Justin R. Zweifel||
 |isabella g henriques|Matt Farncombe||
 |kiran ram|Anne Fausto||
-|Cedric Joaquin|Carlos Barreiro||
 |Dallas Blackwell|Emeka Kanu||
 |Joshua Williams|Oscar Ore||
 |Halle Montgomery|Gladys Gutierrez||
-|Anthony Risch|Billy Ferrara||
+|Anthony Risch|Billy Ferrara|Cedric Joaquin|
 |Luis Leandro|Juan Vidal-Ramos||
 |Dang Nguyen|Tim Donoghue||
 |Jennifer Prince|Luis F Tavarez Valdez||
