@@ -12,27 +12,37 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 2. [Link for Student Weekly Availability Calendar](https://www.when2meet.com/?9139773-MqhEY)
 
 ### Any questions or issues please DM me. 
-### Add your weekly availability to the calendar at the link above and update whenever necessary. I will use it to schedule pods and you can use it to help organize your own study groups or extra pair programming sessions.
-### Please reserve 1:1 bookings with me for AFTER you've attended a pod meeting (whenever possible). If you still have questions after your weekly pod, then book a slot with me, but 1:1 space is limited.
+### Memorial Day, Monday, 5/25, is a Flatiron School Holiday.  No pod meeting or AAQ.
+### Name Your Cohort: don't miss out on the chance to add your idea to the running at [this link](https://forms.gle/QRmHGZvyLiS6hDbGA)
 
 # Weekly Assignments
 
-### Week 3: May 18, 2020
-#### This week's focus:  First Mile Fundamentals
-
-1. Day 1 -  Object Oriented Ruby: Object Properties (up to Object Attributes Lesson)(93)
-2. Day 2 -  Object Oriented Ruby: Object Properties (Object Attributes Lab - Video Review: Object Properties)(97)
-3. Day 3 - Object Oriented Ruby: Object Lifecycle (102)
-4. Day 4 -  Object Oriented Ruby: Object’s Self (104)
-5. Day 5 -  Object Oriented Ruby: Class Variables and Methods (107)
-
-##### Next week:
+### Week 4: May 25, 2020
+#### This week's focus:  Object Self && Class Variables/Methods
 
 1. Day 1 -  Object Oriented Ruby: Object Models (112)
 2. Day 2 -  Object Oriented Ruby: OO Tic Tac Toe (114)
 3. Day 3 - Object Oriented Ruby: Object Labs (117)
 4. Day 4 - Object Oriented Ruby: Object Relationships (Has Many Object Lab) (121)
 5. Day 5 - Object Oriented Ruby: Object Relationships (Collaborating Objects Review) (124)
+
+##### Next week:
+
+1. Day 1 -  Object Oriented Ruby: Object Relationships (OO Banking) (3 Lessons)
+2. Day 2 - Object Oriented Ruby: Object Relationships (Finish), Object Oriented Ruby: Object Architecture (Intro to Inheritance Lab) (4 Lessons)
+3. Day 3 - Object Oriented Ruby: Object Architecture (Finish) (4 Lessons)
+4. Day 4 - Object Oriented Ruby: Metaprogramming (Mass Assignment Lab) (3 Lessons)
+5. Day 5 - Object Oriented Ruby: Metaprogramming (Finish) (2 Lessons)
+
+
+### Week 3: May 18, 2020
+#### This week's focus:  OO Ruby
+
+1. Day 1 -  Object Oriented Ruby: Object Properties (up to Object Attributes Lesson)(93)
+2. Day 2 -  Object Oriented Ruby: Object Properties (Object Attributes Lab - Video Review: Object Properties)(97)
+3. Day 3 - Object Oriented Ruby: Object Lifecycle (102)
+4. Day 4 -  Object Oriented Ruby: Object’s Self (104)
+5. Day 5 -  Object Oriented Ruby: Class Variables and Methods (107)
 
 ### Week 2: May 10, 2020
 #### This week's focus:  First Mile Fundamentals
