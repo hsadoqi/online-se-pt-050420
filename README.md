@@ -185,3 +185,5 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 |**Week 3**|
 | Lecture: Intro to Object Oriented Programming | [Video](https://youtu.be/uXY1A5ZjKIQ)
 | Lecture: Object Initialization & Object Properties | [Video](https://youtu.be/ys-EfbnJDnU)
+|**Week 4**|
+| Lecture: Object Self && Class Variables/Methods Lab | [Video](https://youtu.be/xVBd-dt77kI))
