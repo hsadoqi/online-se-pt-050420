@@ -12,10 +12,26 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 2. [Link for Student Weekly Availability Calendar](https://www.when2meet.com/?9139773-MqhEY)
 
 ### Any questions or issues please DM me. 
-### Memorial Day, Monday, 5/25, is a Flatiron School Holiday.  No pod meeting or AAQ.
-### Name Your Cohort: don't miss out on the chance to add your idea to the running at [this link](https://forms.gle/QRmHGZvyLiS6hDbGA)
-
+### There are some adjustments to pod and pair assignments.  Please see below!
 # Weekly Assignments
+
+### Week 5: June 1, 2020
+#### This week's focus: Object Relationships
+
+1. Day 1 -  Object Oriented Ruby: Object Relationships (OO Banking) (3 Lessons)
+2. Day 2 - Object Oriented Ruby: Object Relationships (Finish), Object Oriented Ruby: Object Architecture (Intro to Inheritance Lab) (4 Lessons)
+3. Day 3 - Object Oriented Ruby: Object Architecture (Finish) (4 Lessons)
+4. Day 4 - Object Oriented Ruby: Metaprogramming (Mass Assignment Lab) (3 Lessons)
+5. Day 5 - Object Oriented Ruby: Metaprogramming (Finish) (2 Lessons)
+
+##### Next week:
+
+1. Day 1 -  Object Oriented Ruby: Scraping (Scraping Lab) (3 Lessons)
+2. Day 2 - Object Oriented Ruby: Scraping (Finish), Getting Data From Remote Sources (Sending GET Requests)(4 lessons)
+3. Day 3 - Object Oriented Ruby: Getting Data From Remote Sources (Finish) (4 Lessons)
+4. Day 4 - Object Oriented Ruby: Final Projects (finish Music Library CLI) (1 lessons)
+5. Day 5 - Object Oriented Ruby: Final Projects (Student Scraper) (1 lessons)
+
 
 ### Week 4: May 25, 2020
 #### This week's focus:  Object Self && Class Variables/Methods
@@ -25,15 +41,6 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 3. Day 3 - Object Oriented Ruby: Object Labs (117)
 4. Day 4 - Object Oriented Ruby: Object Relationships (Has Many Object Lab) (121)
 5. Day 5 - Object Oriented Ruby: Object Relationships (Collaborating Objects Review) (124)
-
-##### Next week:
-
-1. Day 1 -  Object Oriented Ruby: Object Relationships (OO Banking) (3 Lessons)
-2. Day 2 - Object Oriented Ruby: Object Relationships (Finish), Object Oriented Ruby: Object Architecture (Intro to Inheritance Lab) (4 Lessons)
-3. Day 3 - Object Oriented Ruby: Object Architecture (Finish) (4 Lessons)
-4. Day 4 - Object Oriented Ruby: Metaprogramming (Mass Assignment Lab) (3 Lessons)
-5. Day 5 - Object Oriented Ruby: Metaprogramming (Finish) (2 Lessons)
-
 
 ### Week 3: May 18, 2020
 #### This week's focus:  OO Ruby
@@ -75,7 +82,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 |  | Dustin Blanton | Isabella Goncalves Henriques
 |  | Morgan Collado | Kevin Boston
 |  | Anne Fausto | Kristopher Schemel
-|  | Ben Parish | Tim Donoghue
+|  | Ben Parish | Ghameerah McCullers
 |  | Juan Vidal | Holly Miranda
 | **Hopper** | **Tuesdays, 8pm ET** | 
 |  | Alexander Reyes Rodriguez | Catheryne Small
@@ -93,10 +100,10 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 |  | Angel Zuniga | Tommy Werner
 |  | Cedric Joaquin | Zachary Lynch
 |  | Michael Thomas | Jesse Summer-Lavigne
-|  | Jack Quinoa | Mil Flores
+|  | Terren Culberson | Mil Flores
 |  | Alexandra Olivera | jassmine tatum 
 | **Lovelace** | **Thursdays, 11am ET** | 
-|  | Ross Enriques | Brian Matheny
+|  | Tim Donoghue | Brian Matheny
 |  | Laila Campbell | hailey putnam
 |  | Matt Farncombe | Jennifer Prince
 |  | Philip Humphrey | Megan Gomes
@@ -106,9 +113,9 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 |  |  Victor Williams | Brian Craycraft
 |  |  Halle Montgomery | Travis Lawson
 |  | Keanna Salter | Michaelle Barbor
-|  |  | Billy Ferrara
+|  | Ross Enriques  | Billy Ferrara
 | **Granville** | **Fridays, 4pm ET** | 
-|  | Terren Culberson | Melissa Sperry
+|  | Jack Quinoa | Melissa Sperry
 |  | Jacob Sleman | Sha-jay Perry
 |  | Kiran Ram | Jalysa Reason
 |  | Robert Leduc | Marvin Reyes
@@ -127,23 +134,23 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Student | Student | Student |
 | ----- | ----- | ----- |
 |Sha-jay Perry|Luis Gonzalez||
-|Hannah Sandusky|Megan Gomes||
+|Hannah Sandusky|Michael Thomas||
 |Wenhao Guo|Jack Quinoa||
 |Victor Williams|Tyler Firth||
 |Brian Craycraft|Phil Humphrey||
 |Catheryne Small|Steven Prindle||
 |Andrew Witmer|Ryan Davey||
 |Hussain Ahmed|Tommy Werner||
-|Jeff Bai|Tariq M Sulaiman||
+|Jeff Bai|Michaelle Barbor||
 |Thanh Pham|jassmine tatum||
 |Holly Miranda-Brennecke|Anthony George||
 |Samantha Barros|Ben Parish||
 |Alexander Reyes Rodriguez|Milly Flores||
 |Ghameerah McCullers|Jimmy Kivlen||
 |Valentina Panic|Jake Sleman||
-|Evan Bernard|Michaelle Barbor||
+|Evan Bernard|Megan Gomes||
 |Robert Leduc|travis Lawson||
-|Michael Thomas|Angel Zuniga||
+|Angel Zuniga|Tariq M Sulaiman||
 |Ross Enriques|Kristopher Schemel||
 |Dustin Blanton|Morgan Collado||
 |Terren Culberson|Jalysa Reason||
@@ -166,6 +173,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 |Brian Matheny|Daniel Kwon||
 |Ian Bumatay|Richard Cho||
 
+
 # Study Group Videos and Code
 
 | Topic         | Video         | Code/Other | Repl/other resources|
@@ -186,4 +194,5 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Lecture: Intro to Object Oriented Programming | [Video](https://youtu.be/uXY1A5ZjKIQ)
 | Lecture: Object Initialization & Object Properties | [Video](https://youtu.be/ys-EfbnJDnU)
 |**Week 4**|
-| Lecture: Object Self && Class Variables/Methods Lab | [Video](https://youtu.be/xVBd-dt77kI))
+| Lecture: Object Self && Class Variables/Methods Lab | [Video](https://youtu.be/xVBd-dt77kI)
+| OO Tic Tac Toe Walkthrough | [Video](https://youtu.be/kOpz-UzlWFI)
