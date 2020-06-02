@@ -196,3 +196,9 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 |**Week 4**|
 | Lecture: Object Self && Class Variables/Methods Lab | [Video](https://youtu.be/xVBd-dt77kI)
 | OO Tic Tac Toe Walkthrough | [Video](https://youtu.be/kOpz-UzlWFI)
+|**Week 5**|
+| Supplemental: Collaborating Objects (Band-Musician-Instrument w/ Beth Schofield) | [Video](https://instruction.learn.co/student/video_lectures#/560)
+| Supplemental: Intro OO Relationships (w /Micah Shute) | [Video](https://youtu.be/nJTGosyMc6Q)
+| Walkthrough: OO Cash Register | [Video](https://youtu.be/qVPZ8ikelO0)
+| Walkthrough: Collaborating Obj (Pt. 1) | [Video](https://youtu.be/3nrWoFvMMTw)
+| Walkthrough: Collaborating Obj (Pt. 2) | [Video](https://youtu.be/rLRd67s-n60)
