@@ -202,3 +202,4 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Walkthrough: OO Cash Register | [Video](https://youtu.be/qVPZ8ikelO0)
 | Walkthrough: Collaborating Obj (Pt. 1) | [Video](https://youtu.be/3nrWoFvMMTw)
 | Walkthrough: Collaborating Obj (Pt. 2) | [Video](https://youtu.be/rLRd67s-n60)
+| Lecture: One-to-Many Relationships | [Video](https://youtu.be/JnMJzwHh1v8)
