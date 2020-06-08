@@ -15,6 +15,18 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 ### There are some adjustments to pod and pair assignments.  Please see below!
 # Weekly Assignments
 
+### Week 6: June 8, 2020
+#### This week's focus: Getting Data
+
+1. Day 1 - Object Oriented Ruby: Scraping (Scraping Lab) (3 Lessons)
+2. Day 2 - Object Oriented Ruby: Scraping (Finish), Getting Data From Remote Sources (Sending GET Requests)(4 lessons)
+3. Day 3 - Object Oriented Ruby: Getting Data From Remote Sources (Finish) (4 Lessons)
+4. Day 4 - Object Oriented Ruby: Final Projects (finish Music Library CLI) (1 lessons)
+5. Day 5 - Object Oriented Ruby: Final Projects (Student Scraper) (1 lessons)
+
+##### Next week:
+CLI Project Week 1 (of 2): No new lessons or labs
+
 ### Week 5: June 1, 2020
 #### This week's focus: Object Relationships
 
@@ -23,15 +35,6 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 3. Day 3 - Object Oriented Ruby: Object Architecture (Finish) (4 Lessons)
 4. Day 4 - Object Oriented Ruby: Metaprogramming (Mass Assignment Lab) (3 Lessons)
 5. Day 5 - Object Oriented Ruby: Metaprogramming (Finish) (2 Lessons)
-
-##### Next week:
-
-1. Day 1 -  Object Oriented Ruby: Scraping (Scraping Lab) (3 Lessons)
-2. Day 2 - Object Oriented Ruby: Scraping (Finish), Getting Data From Remote Sources (Sending GET Requests)(4 lessons)
-3. Day 3 - Object Oriented Ruby: Getting Data From Remote Sources (Finish) (4 Lessons)
-4. Day 4 - Object Oriented Ruby: Final Projects (finish Music Library CLI) (1 lessons)
-5. Day 5 - Object Oriented Ruby: Final Projects (Student Scraper) (1 lessons)
-
 
 ### Week 4: May 25, 2020
 #### This week's focus:  Object Self && Class Variables/Methods
@@ -129,7 +132,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 # Pair Programming Assignments
 
-### Please contact your partner below and arrange a weekly time to meet for pair programming.  You can use [this calendar](https://www.when2meet.com/?9139773-MqhEY) to help you find a time that works. If you cannot find any time, let me know and I'll help you find new partners.  If you have any questions what you should do, rewatch the video from First Mile linked below.  When you have done your pair programming for the week, please submit [this very short form](https://forms.gle/DsiBCPXm1TFU88dz5)
+### Please contact your partner below and arrange a weekly time to meet for pair programming.  You can use [this calendar](https://www.when2meet.com/?9139773-MqhEY) to help you find a time that works. If you cannot find any time, let me know and I'll help you find new partners.  If you have any questions what you should do, rewatch the video from First Mile linked below, and/or see these [best practices](https://github.com/learn-co-curriculum/pairing-best-practices).  When you have done your pair programming for the week, please submit [this very short form](https://forms.gle/DsiBCPXm1TFU88dz5)
 
 | Student | Student | Student |
 | ----- | ----- | ----- |
@@ -203,3 +206,4 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Walkthrough: Collaborating Obj (Pt. 1) | [Video](https://youtu.be/3nrWoFvMMTw)
 | Walkthrough: Collaborating Obj (Pt. 2) | [Video](https://youtu.be/rLRd67s-n60)
 | Lecture: One-to-Many Relationships | [Video](https://youtu.be/JnMJzwHh1v8)
+| Recording: Many-to-Many Relationships | [Video](https://youtu.be/GDhJllaRxVA)
