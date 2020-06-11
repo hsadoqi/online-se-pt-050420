@@ -207,3 +207,5 @@ CLI Project Week 1 (of 2): No new lessons or labs
 | Walkthrough: Collaborating Obj (Pt. 2) | [Video](https://youtu.be/rLRd67s-n60)
 | Lecture: One-to-Many Relationships | [Video](https://youtu.be/JnMJzwHh1v8)
 | Recording: Many-to-Many Relationships | [Video](https://youtu.be/GDhJllaRxVA)
+|**Week 6**|
+| Lecture: Accessing Data from APIs | [Video](https://youtu.be/Big4GXKqjLY)
