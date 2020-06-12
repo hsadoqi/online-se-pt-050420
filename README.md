@@ -209,3 +209,6 @@ CLI Project Week 1 (of 2): No new lessons or labs
 | Recording: Many-to-Many Relationships | [Video](https://youtu.be/GDhJllaRxVA)
 |**Week 6**|
 | Lecture: Accessing Data from APIs | [Video](https://youtu.be/Big4GXKqjLY)
+| Lecture: Pokedex CLI, pt 1 | [Video](https://youtu.be/1R3Wxj-Gi3o) | [Code](https://github.com/betalantz/pokedex)
+|**Additional Project Resources**|
+| Git Basics | [Video](https://instruction.learn.co/student/video_lectures#/202) | [More videos](https://instruction.learn.co/student/video_lectures#/?query=github) | [Blog](https://dev.to/jmourtada/a-quick-introduction-to-git)
