@@ -12,8 +12,19 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 2. [Link for Student Weekly Availability Calendar](https://www.when2meet.com/?9139773-MqhEY)
 
 ### Any questions or issues please DM me. 
-### There are some adjustments to pod and pair assignments.  Please see below!
+### CLI PROJECT WEEK 1!!!!
+#### As a reminder, there are no PODs this week, and Study Groups will mostly be OOH!
+#### Build your first app!
+#### Make sure to set good goals for yourself so you don't fall behind!
+#### I have 10 hours of Open Office Hours this week! Please take advantage of them and come with any and all questions! Check the Cohort Calendar (above) for times!
+
 # Weekly Assignments
+
+### Week 7: June , 2020
+#### This week's focus: Project Week 1
+
+1. Work on your project
+2. Drop in on OOH or book 1:1s as needed.
 
 ### Week 6: June 8, 2020
 #### This week's focus: Getting Data
@@ -82,53 +93,21 @@ CLI Project Week 1 (of 2): No new lessons or labs
 | Pod Name | Date & Time | Students |
 | ----- | ----- | ----- |
 | **Borg** | **Mondays, 6pm ET** | 
-|  | Dustin Blanton | Isabella Goncalves Henriques
-|  | Morgan Collado | Kevin Boston
-|  | Anne Fausto | Kristopher Schemel
-|  | Ben Parish | Ghameerah McCullers
-|  | Juan Vidal | Holly Miranda
+|  | TBA | TBA
 | **Hopper** | **Tuesdays, 8pm ET** | 
-|  | Alexander Reyes Rodriguez | Catheryne Small
-|  | Hannah Sandusky | Evan Bernard
-|  | Dang Nguyen | Valentina Panic
-|  | Tyler Firth | Luis Leandro
-|  | Wenhao Guo | James Johnson
+|  | TBA | TBA
 | **Fox** | **Wednesdays, 4pm ET** |
-|  |  Ian Bumatay | Andrew Witmer
-|  | Dallas Blackwell | Anthony Risch
-|  | Ian McGowan Hutson | Justin Zweifel
-|  | Anthony George | Joshua Williams
-|  | Tariq Sulaiman | Hussain Ahmed
+|  | TBA | TBA
 | **Turing** | **Wednesdays, 9pm ET** | 
-|  | Angel Zuniga | Tommy Werner
-|  | Cedric Joaquin | Zachary Lynch
-|  | Michael Thomas | Jesse Summer-Lavigne
-|  | Terren Culberson | Mil Flores
-|  | Alexandra Olivera | jassmine tatum 
+|  | TBA | TBA
 | **Lovelace** | **Thursdays, 11am ET** | 
-|  | Tim Donoghue | Brian Matheny
-|  | Laila Campbell | hailey putnam
-|  | Matt Farncombe | Jennifer Prince
-|  | Philip Humphrey | Megan Gomes
-|  | Steven Prindle | Samantha Barros
+|  | TBA | TBA
 | **Windsor** | **Thursdays, 5pm ET** | 
-|  | Thanh Pham | Kamille Longalong
-|  |  Victor Williams | Brian Craycraft
-|  |  Halle Montgomery | Travis Lawson
-|  | Keanna Salter | Michaelle Barbor
-|  | Ross Enriques  | Billy Ferrara
+|  | TBA | TBA
 | **Granville** | **Fridays, 4pm ET** | 
-|  | Jack Quinoa | Melissa Sperry
-|  | Jacob Sleman | Sha-jay Perry
-|  | Kiran Ram | Jalysa Reason
-|  | Robert Leduc | Marvin Reyes
-|  |  | James Kivlen
+|  | TBA | TBA
 | **Granville** | **Fridays, 6:30pm ET** | 
-|  | Richard Cho | Ryan Davey
-|  | Jonathan East | Oscar Ore
-|  | Daniel Kwon | Chukwuemeka Kanu
-|  | Ghameerah McCullers | Luis F Tavarez Valdez
-|  | Jeff Bai | Luis Gonzalez
+|  | TBA | TBA
 
 # Pair Programming Assignments
 
@@ -136,46 +115,7 @@ CLI Project Week 1 (of 2): No new lessons or labs
 
 | Student | Student | Student |
 | ----- | ----- | ----- |
-|Sha-jay Perry|Luis Gonzalez||
-|Hannah Sandusky|Michael Thomas||
-|Wenhao Guo|Jack Quinoa||
-|Victor Williams|Tyler Firth||
-|Brian Craycraft|Phil Humphrey||
-|Catheryne Small|Steven Prindle||
-|Andrew Witmer|Ryan Davey||
-|Hussain Ahmed|Tommy Werner||
-|Jeff Bai|Michaelle Barbor||
-|Thanh Pham|jassmine tatum||
-|Holly Miranda-Brennecke|Anthony George||
-|Samantha Barros|Ben Parish||
-|Alexander Reyes Rodriguez|Milly Flores||
-|Ghameerah McCullers|Jimmy Kivlen||
-|Valentina Panic|Jake Sleman||
-|Evan Bernard|Megan Gomes||
-|Robert Leduc|travis Lawson||
-|Angel Zuniga|Tariq M Sulaiman||
-|Ross Enriques|Kristopher Schemel||
-|Dustin Blanton|Morgan Collado||
-|Terren Culberson|Jalysa Reason||
-|james Johnson|Keanna Salter||
-|Kevin Boston|Jesse Summer-Lavigne||
-|Laila Campbell|Ian Hutson||
-|Marvin Reyes|Melissa Sperry||
-|Zachary Lynch|Hailey P||
-|ALEXANDRA OLIVEROS|Justin R. Zweifel||
-|isabella g henriques|Matt Farncombe||
-|kiran ram|Anne Fausto||
-|Dallas Blackwell|Emeka Kanu||
-|Joshua Williams|Oscar Ore||
-|Halle Montgomery|Gladys Gutierrez||
-|Anthony Risch|Billy Ferrara|Cedric Joaquin|
-|Luis Leandro|Juan Vidal-Ramos||
-|Dang Nguyen|Tim Donoghue||
-|Jennifer Prince|Luis F Tavarez Valdez||
-|Kamille Longalong|Jonathan East||
-|Brian Matheny|Daniel Kwon||
-|Ian Bumatay|Richard Cho||
-
+|TBA | TBA | TBA
 
 # Study Group Videos and Code
 
