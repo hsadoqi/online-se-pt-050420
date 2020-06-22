@@ -12,15 +12,26 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 2. [Link for Student Weekly Availability Calendar](https://www.when2meet.com/?9139773-MqhEY)
 
 ### Any questions or issues please DM me. 
-### CLI PROJECT WEEK 1!!!!
-#### As a reminder, there are no PODs this week, and Study Groups will mostly be OOH!
-#### Build your first app!
-#### Make sure to set good goals for yourself so you don't fall behind!
-#### I have 10 hours of Open Office Hours this week! Please take advantage of them and come with any and all questions! Check the Cohort Calendar (above) for times!
+### ATTENTION GAME OF CODERS: CLI PROJECT WEEK 2!!!!
+#### Pair Programming is not required this week! There are no POD groups! OOH WILL be held regularly throughout the week! Check the Cohort Calendar and Study Groups!
+#### DO NOT LET YOURSELF FEEL ALONE DURING THIS PROJECT! I am here to help you, reach out if you need me!
+#### If you are behind, GET CAUGHT UP!!!
+#### If you need to watch someone doing a CLI, watch the Pokedex series below! Or slack me!
+#### AAQ does NOT support projects, but I do!!!
+#### UTILIZE OOH and me!!
+
+##### I'll be making new pod/pair assignments this week, so please UPDATE your availability at the link above as needed.
 
 # Weekly Assignments
 
-### Week 7: June , 2020
+### Week 8: June 22, 2020
+#### This week's focus: Project Week 2
+
+1. Finish your project
+2. [Schedule your review](https://go.oncehub.com/StructuredProgramCLIProjectReviews) (Don't schedulue your review until you've submitted your project on Learn.co)
+
+
+### Week 7: June 15, 2020
 #### This week's focus: Project Week 1
 
 1. Work on your project
