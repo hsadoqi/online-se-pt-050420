@@ -29,6 +29,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 1. Finish your project
 2. [Schedule your review](https://go.oncehub.com/StructuredProgramCLIProjectReviews) (Don't schedulue your review until you've submitted your project on Learn.co)
+3. I am on the CLI review team, but I should be the reviewer-of-last-resort for this cohort.  If you get me when scheduling, try your best to schedule with another instructor first.  Slack me if you're having trouble finding slots and we'll try to get more time added to the calendar.
 
 
 ### Week 7: June 15, 2020
@@ -168,3 +169,5 @@ CLI Project Week 1 (of 2): No new lessons or labs
 | Study Group: CLI Portfolio Project Requirements | [Video](https://youtu.be/UdQa3pli2eE) | [Slides](https://docs.google.com/presentation/d/1l50oeL7QSntGQGu1ALfL8n2fcGmXoeJy6QDangFUyF4/edit?usp=sharing)
 |**Additional Project Resources**|
 | Git Basics | [Video](https://instruction.learn.co/student/video_lectures#/202) | [More videos](https://instruction.learn.co/student/video_lectures#/?query=github) | [Blog](https://dev.to/jmourtada/a-quick-introduction-to-git)
+| Writing technical blogs |  | [Doc](https://docs.google.com/document/d/1HYU4_EHUuj_FHAOj0x0WB3wqoFec9F6jg91-LvHcjGY/edit?usp=sharing)
+| Writing READMEs |  |  | [Site link](https://www.makeareadme.com)
