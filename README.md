@@ -171,3 +171,4 @@ CLI Project Week 1 (of 2): No new lessons or labs
 | Git Basics | [Video](https://instruction.learn.co/student/video_lectures#/202) | [More videos](https://instruction.learn.co/student/video_lectures#/?query=github) | [Blog](https://dev.to/jmourtada/a-quick-introduction-to-git)
 | Writing technical blogs |  | [Doc](https://docs.google.com/document/d/1HYU4_EHUuj_FHAOj0x0WB3wqoFec9F6jg91-LvHcjGY/edit?usp=sharing)
 | Writing READMEs |  |  | [Site link](https://www.makeareadme.com)
+| Protecting sensitive data/dotenv gem | [Video](https://youtu.be/yCx_096oWN0) |
