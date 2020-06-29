@@ -12,89 +12,30 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 2. [Link for Student Weekly Availability Calendar](https://www.when2meet.com/?9139773-MqhEY)
 
 ### Any questions or issues please DM me. 
-### ATTENTION GAME OF CODERS: CLI PROJECT WEEK 2!!!!
-#### Pair Programming is not required this week! There are no POD groups! OOH WILL be held regularly throughout the week! Check the Cohort Calendar and Study Groups!
-#### DO NOT LET YOURSELF FEEL ALONE DURING THIS PROJECT! I am here to help you, reach out if you need me!
-#### If you are behind, GET CAUGHT UP!!!
-#### If you need to watch someone doing a CLI, watch the Pokedex series below! Or slack me!
-#### AAQ does NOT support projects, but I do!!!
-#### UTILIZE OOH and me!!
+### Welcome to the Sinatra Section!
+### Be sure you are get scheduled for your CLI Project Review ASAP! [Project Review Booking Link](https://go.oncehub.com/StructuredProgramCLIProjectReviews)
+### If you have any difficulty finding a slot, DM me ASAP and I'll help you arrange a review.
+### The FINAL DAY to pass your CLI Project Review is 7/14!
 
-##### I'll be making new pod/pair assignments this week, so please UPDATE your availability at the link above as needed.
+##### New pod and pair programming assignments will be posted by EOD Monday.
 
 # Weekly Assignments
 
-### Week 8: June 22, 2020
-#### This week's focus: Project Week 2
+### Week 9: June 29, 2020
+#### This week's focus: SQL
 
-1. Finish your project
-2. [Schedule your review](https://go.oncehub.com/StructuredProgramCLIProjectReviews) (Don't schedulue your review until you've submitted your project on Learn.co)
-3. I am on the CLI review team, but I should be the reviewer-of-last-resort for this cohort.  If you get me when scheduling, try your best to schedule with another instructor first.  Slack me if you're having trouble finding slots and we'll try to get more time added to the calendar.
-
-
-### Week 7: June 15, 2020
-#### This week's focus: Project Week 1
-
-1. Work on your project
-2. Drop in on OOH or book 1:1s as needed.
-
-### Week 6: June 8, 2020
-#### This week's focus: Getting Data
-
-1. Day 1 - Object Oriented Ruby: Scraping (Scraping Lab) (3 Lessons)
-2. Day 2 - Object Oriented Ruby: Scraping (Finish), Getting Data From Remote Sources (Sending GET Requests)(4 lessons)
-3. Day 3 - Object Oriented Ruby: Getting Data From Remote Sources (Finish) (4 Lessons)
-4. Day 4 - Object Oriented Ruby: Final Projects (finish Music Library CLI) (1 lessons)
-5. Day 5 - Object Oriented Ruby: Final Projects (Student Scraper) (1 lessons)
+1. Day 1 -  SQL: Topic Introduction, SQL: Getting Started (SQL Databases And Text Editors) (4 lessons)
+2. Day 2 - SQL: Getting Started (Basic SQL Queries) (3 Lessons)
+3. Day 3 - SQL: Getting Started (Finish) (3 lessons)
+4. Day 4 - SQL: Table Relations (SQL Join Tables) (5 lessons)
+5. Day 5 - SQL: Table Relations (Finish) (4 lessons)
 
 ##### Next week:
-CLI Project Week 1 (of 2): No new lessons or labs
-
-### Week 5: June 1, 2020
-#### This week's focus: Object Relationships
-
-1. Day 1 -  Object Oriented Ruby: Object Relationships (OO Banking) (3 Lessons)
-2. Day 2 - Object Oriented Ruby: Object Relationships (Finish), Object Oriented Ruby: Object Architecture (Intro to Inheritance Lab) (4 Lessons)
-3. Day 3 - Object Oriented Ruby: Object Architecture (Finish) (4 Lessons)
-4. Day 4 - Object Oriented Ruby: Metaprogramming (Mass Assignment Lab) (3 Lessons)
-5. Day 5 - Object Oriented Ruby: Metaprogramming (Finish) (2 Lessons)
-
-### Week 4: May 25, 2020
-#### This week's focus:  Object Self && Class Variables/Methods
-
-1. Day 1 -  Object Oriented Ruby: Object Models (112)
-2. Day 2 -  Object Oriented Ruby: OO Tic Tac Toe (114)
-3. Day 3 - Object Oriented Ruby: Object Labs (117)
-4. Day 4 - Object Oriented Ruby: Object Relationships (Has Many Object Lab) (121)
-5. Day 5 - Object Oriented Ruby: Object Relationships (Collaborating Objects Review) (124)
-
-### Week 3: May 18, 2020
-#### This week's focus:  OO Ruby
-
-1. Day 1 -  Object Oriented Ruby: Object Properties (up to Object Attributes Lesson)(93)
-2. Day 2 -  Object Oriented Ruby: Object Properties (Object Attributes Lab - Video Review: Object Properties)(97)
-3. Day 3 - Object Oriented Ruby: Object Lifecycle (102)
-4. Day 4 -  Object Oriented Ruby: Object’s Self (104)
-5. Day 5 -  Object Oriented Ruby: Class Variables and Methods (107)
-
-### Week 2: May 10, 2020
-#### This week's focus:  First Mile Fundamentals
-
-1. Day 1 - Iteration (Iteration and Abstraction -  Each Lab)(58)
-2. Day 2 - Iteration Cont’d (Return from Yield Statements - Enumerators Code Challenge)(66)
-3. Day 3 - Iteration Cont’d (Prime? Lab - Sorting Lab) + Hashes (all)(75)
-4. Day 4 - Data Structures(all)(84)
-5. Day 5 - Intro to object orientation (all) + Classes and instances (all) + Instance Methods (all)(90)
-
-### Week 1: May 4, 2020
-#### This week's focus:  First Mile Fundamentals
-
-1. Day 1 (Mon) - Welcome To Flatiron School,  Software Engineering, About Your Program, Variables and Methods (up to Defining Methods)(16)
-2. Day 2 (Tue) - Variables and Methods ( Methods and Arguments - Method Scope Lab)
-(25)
-3. Day 3 (Wed) - Booleans (all) + Logic and Conditionals (all)(35)
-4. Day 4 (Thur) - Looping (all)(43)
-5. Day 5 (Fri) - Arrays (all)(48)
+Day 1 -  ORMs and ActiveRecord: ORMs (Mapping Classes To Tables Lab) (3 lessons)
+Day 2 - ORMs and ActiveRecord: ORMs (Updating Records In An ORM) (3 lessons)
+Day 3 - ORMs and ActiveRecord: ORMs (Preventing Record Duplication) (3 lessons)
+Day 4 - ORMs and ActiveRecord: ORMs (Dynamic ORM with Inheritance) (3 lessons)
+Day 5 - ORMs and ActiveRecord: ORMs (Finish) (4 lessons)
 
 # Pod Assignments
 
