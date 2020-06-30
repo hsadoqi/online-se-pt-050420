@@ -31,11 +31,11 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 5. Day 5 - SQL: Table Relations (Finish) (4 lessons)
 
 ##### Next week:
-Day 1 -  ORMs and ActiveRecord: ORMs (Mapping Classes To Tables Lab) (3 lessons)
-Day 2 - ORMs and ActiveRecord: ORMs (Updating Records In An ORM) (3 lessons)
-Day 3 - ORMs and ActiveRecord: ORMs (Preventing Record Duplication) (3 lessons)
-Day 4 - ORMs and ActiveRecord: ORMs (Dynamic ORM with Inheritance) (3 lessons)
-Day 5 - ORMs and ActiveRecord: ORMs (Finish) (4 lessons)
+1. Day 1 -  ORMs and ActiveRecord: ORMs (Mapping Classes To Tables Lab) (3 lessons)
+2. Day 2 - ORMs and ActiveRecord: ORMs (Updating Records In An ORM) (3 lessons)
+3. Day 3 - ORMs and ActiveRecord: ORMs (Preventing Record Duplication) (3 lessons)
+4. Day 4 - ORMs and ActiveRecord: ORMs (Dynamic ORM with Inheritance) (3 lessons)
+5. Day 5 - ORMs and ActiveRecord: ORMs (Finish) (4 lessons)
 
 # Pod Assignments
 
@@ -46,21 +46,44 @@ Day 5 - ORMs and ActiveRecord: ORMs (Finish) (4 lessons)
 | Pod Name | Date & Time | Students |
 | ----- | ----- | ----- |
 | **Borg** | **Mondays, 6pm ET** | 
-|  | TBA | TBA
+|  | Daniel Kwon | Ghameerah McCullers
+|  | Morgan Collado | Dustin Blanton
+|  | Oscar Ore | Brian Craycraft
+|  | Kevin Boston | 
 | **Hopper** | **Tuesdays, 8pm ET** | 
-|  | TBA | TBA
+|  | Jonathan East|Catheryne Small
+||Chukwuemeka Kanu|Samantha Barros
+||Angel Zuniga|Ben Parish
+||Billy Ferrara|Hannah Sandusky 
 | **Fox** | **Wednesdays, 4pm ET** |
-|  | TBA | TBA
+|  | Matt Farncombe|Justin Zweifel
+||Ian Bumatay|Ross Enriques
+||Megan Gomes|Jack Quinoa
+||Ian McGowan Hutson|Luis Gonzalez 
 | **Turing** | **Wednesdays, 9pm ET** | 
-|  | TBA | TBA
+|  | Dang Nguyen|Michael Thomas
+||Cedric Joaquin|Ryan Davey
+||Mil Flores|Alexandra Oliveros
+||Isabella Goncalves Henriques|Luis Leandro 
 | **Lovelace** | **Thursdays, 11am ET** | 
-|  | TBA | TBA
+|  | Brian Matheny|Philip Humphrey
+||hailey putnam|Tim Donoghue
+||Steven Prindle|Zachary Lynch 
 | **Windsor** | **Thursdays, 5pm ET** | 
-|  | TBA | TBA
+|  | Joshua Williams|Anne Fausto
+||Kamille Longalong|Thanh Pham
+||Holly Miranda|Victor Williams
+||Jeff Bai |
 | **Granville** | **Fridays, 4pm ET** | 
-|  | TBA | TBA
-| **Granville** | **Fridays, 6:30pm ET** | 
-|  | TBA | TBA
+|  | jassmine tatum|Marvin Reyes
+||Melissa Sperry|Gladys Gutierrez
+||Halle Montgomery|James Johnson
+||Jalysa Reason|Wenhao Guo 
+| **Tang** | **Fridays, 6:30pm ET** | 
+|  | Jennifer Prince|Jesse Summer-Lavigne
+||Tommy Werner|Laila Campbell
+||travis Lawson|Valentina Panic
+||Richard Cho 
 
 # Pair Programming Assignments
 
@@ -68,7 +91,43 @@ Day 5 - ORMs and ActiveRecord: ORMs (Finish) (4 lessons)
 
 | Student | Student | Student |
 | ----- | ----- | ----- |
-|TBA | TBA | TBA
+|Holly Miranda-Brennecke|Samantha Barros||
+|Gladys Gutierrez|Angel Zuniga||
+|Hussain Ahmed|Michael Thomas||
+|travis Lawson|Hailey P||
+|Tim Donoghue|Emeka Kanu||
+|Laila Campbell|Luis Gonzalez||
+|Melissa Sperry|Andrew Witmer||
+|Jack Quinoa|Marvin Reyes||
+|Hannah Sandusky|Billy Ferrara||
+|Brian Craycraft|Steven Prindle||
+|kiran ram|Luis F Tavarez Valdez||
+|isabella g henriques|Alexander Reyes Rodriguez||
+|Thanh Pham|Brian Matheny||
+|Sha-jay Perry|Tariq M Sulaiman||
+|Michaelle Barbor|Milly Flores||
+|Phil Humphrey|Tyler Firth||
+|Megan Gomes|Jake Sleman||
+|ALEXANDRA OLIVEROS|Ghameerah McCullers||
+|Anthony George|Anthony Risch||
+|Kevin Boston|jassmine tatum||
+|Matt Farncombe|Victor Williams||
+|Jonathan East|Oscar Ore||
+|Tommy Werner|Valentina Panic||
+|Cedric Joaquin|Patrick A.||
+|Dallas Blackwell|Ian Hutson||
+|Jalysa Reason|Jimmy Kivlen||
+|Jennifer Prince|Wenhao Guo||
+|Richard Cho|Dang Nguyen||
+|Catheryne Small|Guillermo Martinez||
+|Luis Leandro|Melissa Perez||
+|Kamille Longalong|Daniel Kwon||
+|Zachary Lynch|Ian Bumatay||
+|Ryan Davey|Jesse Summer-Lavigne||
+|Jeff Bai|Morgan Collado||
+|Ross Enriques|Dustin Blanton||
+|Anne Fausto|Halle Montgomery||
+|Justin R. Zweifel|james Johnson|Ben Parish|
 
 # Study Group Videos and Code
 
