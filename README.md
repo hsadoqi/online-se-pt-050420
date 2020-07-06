@@ -13,13 +13,35 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 ### Any questions or issues please DM me. 
 ### Welcome to the Sinatra Section!
-### Be sure you are get scheduled for your CLI Project Review ASAP! [Project Review Booking Link](https://go.oncehub.com/StructuredProgramCLIProjectReviews)
+### Be sure you are scheduled for your CLI Project Review ASAP! [Project Review Booking Link](https://go.oncehub.com/StructuredProgramCLIProjectReviews)
 ### If you have any difficulty finding a slot, DM me ASAP and I'll help you arrange a review.
 ### The FINAL DAY to pass your CLI Project Review is 7/14!
 
-##### New pod and pair programming assignments will be posted by EOD Monday.
+##### See below for new Pod and Pair Programming assignments. If you need to miss a pod one week, please see the calendar above for other pods you may join.  If your weekly time doesn't work, contact me to move pods.
 
 # Weekly Assignments
+
+### Week 10: July 6, 2020
+#### This week's focus: ORMs
+
+1. Day 1 -  ORMs and ActiveRecord: ORMs (Mapping Classes To Tables Lab) (3 lessons)
+2. Day 2 - ORMs and ActiveRecord: ORMs (Updating Records In An ORM) (3 lessons)
+3. Day 3 - ORMs and ActiveRecord: ORMs (Preventing Record Duplication) (3 lessons)
+4. Day 4 - ORMs and ActiveRecord: ORMs (Dynamic ORM with Inheritance) (3 lessons)
+5. Day 5 - ORMs and ActiveRecord: ORMs (Finish) (4 lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+| Live Pairing - SQL Queries Bootcamp | 
+| Live Lecture - Build an ORM from Scratch |
+
+##### Next week:
+
+1. Day 1 - ORMs and ActiveRecord: ActiveRecord (Intro to Rake) (3 Lessons)
+2. Day 2 - ORMs and ActiveRecord: ActiveRecord (Migration and Active Record Lab) (3 Lessons)
+3. Day 3 - ORMs and ActiveRecord: ActiveRecord (Finish) (2 Lessons)
+4. Day 4 - ORMs and ActiveRecord: Associations (ActiveRecord Associations Lab) (2 Lessons)
+5. Day 5 - ORMs and ActiveRecord: Associations (Finish) (5 Lessons)
 
 ### Week 9: June 29, 2020
 #### This week's focus: SQL
@@ -30,12 +52,9 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 4. Day 4 - SQL: Table Relations (SQL Join Tables) (5 lessons)
 5. Day 5 - SQL: Table Relations (Finish) (4 lessons)
 
-##### Next week:
-1. Day 1 -  ORMs and ActiveRecord: ORMs (Mapping Classes To Tables Lab) (3 lessons)
-2. Day 2 - ORMs and ActiveRecord: ORMs (Updating Records In An ORM) (3 lessons)
-3. Day 3 - ORMs and ActiveRecord: ORMs (Preventing Record Duplication) (3 lessons)
-4. Day 4 - ORMs and ActiveRecord: ORMs (Dynamic ORM with Inheritance) (3 lessons)
-5. Day 5 - ORMs and ActiveRecord: ORMs (Finish) (4 lessons)
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+| Intro to SQL | [Video](https://youtu.be/58nOenpMJcQ)
 
 # Pod Assignments
 
