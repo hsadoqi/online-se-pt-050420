@@ -12,14 +12,34 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 2. [Link for Student Weekly Availability Calendar](https://www.when2meet.com/?9139773-MqhEY)
 
 ### Any questions or issues please DM me. 
-### Welcome to the Sinatra Section!
-### Be sure you are scheduled for your CLI Project Review ASAP! [Project Review Booking Link](https://go.oncehub.com/StructuredProgramCLIProjectReviews)
-### If you have any difficulty finding a slot, DM me ASAP and I'll help you arrange a review.
 ### The FINAL DAY to pass your CLI Project Review is 7/14!
+### Join us for the CLI Project Showcase on Wednesday, July 15 @ 6pm ET [Study Group](https://learn.co/sg/IyDkmg)
 
 ##### See below for new Pod and Pair Programming assignments. If you need to miss a pod one week, please see the calendar above for other pods you may join.  If your weekly time doesn't work, contact me to move pods.
 
 # Weekly Assignments
+
+### Week 11: July 13, 2020
+#### This week's focus: ActiveRecore
+
+1. Day 1 - ORMs and ActiveRecord: ActiveRecord (Intro to Rake) (3 Lessons)
+2. Day 2 - ORMs and ActiveRecord: ActiveRecord (Migration and Active Record Lab) (3 Lessons)
+3. Day 3 - ORMs and ActiveRecord: ActiveRecord (Finish) (2 Lessons)
+4. Day 4 - ORMs and ActiveRecord: Associations (ActiveRecord Associations Lab) (2 Lessons)
+5. Day 5 - ORMs and ActiveRecord: Associations (Finish) (5 Lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+| Live Lecture - Intro to ActiveRecord |
+| Live Lecture - ActiveRecord & Associations |
+
+##### Next week:
+
+1. Day 1 -  Sinatra: Sinatra Basics (What is Sinatra) (1 Lessons)
+2. Day 2 - Sinatra: Sinatra Basics (Sinatra From Scratch) (1 Lessons)
+3. Day 3 - Sinatra: Sinatra Basics (Sinatra Basics) (1 Lessons)
+4. Day 4 - Sinatra: Sinatra Basics (Sinatra “Hello World” Lab) (2 Lessons)
+5. Day 5 - Sinatra: Sinatra Basics (Finish) (2 Lessons)
 
 ### Week 10: July 6, 2020
 #### This week's focus: ORMs
@@ -32,16 +52,8 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
-| Live Pairing - SQL Queries Bootcamp | 
-| Live Lecture - Build an ORM from Scratch |
-
-##### Next week:
-
-1. Day 1 - ORMs and ActiveRecord: ActiveRecord (Intro to Rake) (3 Lessons)
-2. Day 2 - ORMs and ActiveRecord: ActiveRecord (Migration and Active Record Lab) (3 Lessons)
-3. Day 3 - ORMs and ActiveRecord: ActiveRecord (Finish) (2 Lessons)
-4. Day 4 - ORMs and ActiveRecord: Associations (ActiveRecord Associations Lab) (2 Lessons)
-5. Day 5 - ORMs and ActiveRecord: Associations (Finish) (5 Lessons)
+| Live Pairing - SQL Queries Bootcamp | [Video](https://youtu.be/u8oq7j8t0AM)
+| Live Lecture - Build an ORM from Scratch | [Video](https://youtu.be/bylCOnmdjso)
 
 ### Week 9: June 29, 2020
 #### This week's focus: SQL
