@@ -30,7 +30,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
-| Live Lecture - Intro to ActiveRecord |
+| Live Lecture - Intro to ActiveRecord | [Video](https://youtu.be/ZllxDd2Fo_c) | [Code](https://github.com/betalantz/activerecord-intro)
 | Live Lecture - ActiveRecord & Associations |
 
 ##### Next week:
@@ -53,7 +53,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 | Live Pairing - SQL Queries Bootcamp | [Video](https://youtu.be/u8oq7j8t0AM)
-| Live Lecture - Build an ORM from Scratch | [Video](https://youtu.be/bylCOnmdjso)
+| Live Lecture - Build an ORM from Scratch | [Video](https://youtu.be/bylCOnmdjso) | [Code](https://github.com/betalantz/orm_demo)
 
 ### Week 9: June 29, 2020
 #### This week's focus: SQL
