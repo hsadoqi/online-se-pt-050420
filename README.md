@@ -31,7 +31,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 | Live Lecture - Intro to ActiveRecord | [Video](https://youtu.be/ZllxDd2Fo_c) | [Code](https://github.com/betalantz/activerecord-intro)
-| Live Lecture - ActiveRecord & Associations |
+| Live Lecture - ActiveRecord & Associations | [Video](https://youtu.be/vYIMC_dJlkg)
 
 ##### Next week:
 
