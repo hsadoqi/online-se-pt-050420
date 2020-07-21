@@ -12,12 +12,36 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 2. [Link for Student Weekly Availability Calendar](https://www.when2meet.com/?9139773-MqhEY)
 
 ### Any questions or issues please DM me. 
-### The FINAL DAY to pass your CLI Project Review is 7/14!
-### Join us for the CLI Project Showcase on Wednesday, July 15 @ 6pm ET [Study Group](https://learn.co/sg/IyDkmg)
+## Welcome to Sinatra! This week we are adding the browser! You will now be able to get requests from a user's browser and send things to desplay in a browser. Cool!
 
+## "Bonus" Material: There is important information in these sections. Be sure you know How the Internet Works! You need to understand basic HTTP and the Request-Response cycle. If you're not very familiar with HTML, this is the time to increase your understanding.  CSS plays a more minor role for this project, but you'll want to know it for your Rails project and later.
+
+### Some adjustments to pods and pairs are coming later this week.
 ##### See below for new Pod and Pair Programming assignments. If you need to miss a pod one week, please see the calendar above for other pods you may join.  If your weekly time doesn't work, contact me to move pods.
 
 # Weekly Assignments
+
+### Week 12: July 20, 2020
+#### This week's focus: Sinatra Basics
+
+1. Day 1 -  Sinatra: Sinatra Basics (What is Sinatra) (1 Lessons)
+2. Day 2 - Sinatra: Sinatra Basics (Sinatra From Scratch) (1 Lessons)
+3. Day 3 - Sinatra: Sinatra Basics (Sinatra Basics) (1 Lessons)
+4. Day 4 - Sinatra: Sinatra Basics (Sinatra “Hello World” Lab) (2 Lessons)
+5. Day 5 - Sinatra: Sinatra Basics (Finish) (2 Lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+| Intro to Sinatra | TBA
+
+##### Next week:
+
+1. Day 1 -  Sinatra: MVC And Forms (Sinatra Basic Views Lab) (4 Lessons)
+2. Day 2 - Sinatra: MVC And Forms (Finish), Sinatra: Forms (Intro To Capybara Tests) (4 Lessons)
+3. Day 3 - Sinatra: Forms (Basic Sinatra Forms Lab) (5 Lessons)
+4. Day 4 - Sinatra: Forms (Sinatra Basic Forms Lab) (4 Lessons)
+5. Day 5 - Sinatra: Forms (Finish) (4 Lessons)
+
 
 ### Week 11: July 13, 2020
 #### This week's focus: ActiveRecore
@@ -32,14 +56,6 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | ------------- |:-------------:| ----------- | ------------------- |
 | Live Lecture - Intro to ActiveRecord | [Video](https://youtu.be/ZllxDd2Fo_c) | [Code](https://github.com/betalantz/activerecord-intro) | [Slides](https://docs.google.com/presentation/d/1RFuivIsZSd47B3aLeqHkqfOAwdMAwM9VoueIF08R9BU/edit?usp=sharing)
 | Live Lecture - ActiveRecord & Associations | [Video](https://youtu.be/vYIMC_dJlkg)
-
-##### Next week:
-
-1. Day 1 -  Sinatra: Sinatra Basics (What is Sinatra) (1 Lessons)
-2. Day 2 - Sinatra: Sinatra Basics (Sinatra From Scratch) (1 Lessons)
-3. Day 3 - Sinatra: Sinatra Basics (Sinatra Basics) (1 Lessons)
-4. Day 4 - Sinatra: Sinatra Basics (Sinatra “Hello World” Lab) (2 Lessons)
-5. Day 5 - Sinatra: Sinatra Basics (Finish) (2 Lessons)
 
 ### Week 10: July 6, 2020
 #### This week's focus: ORMs
