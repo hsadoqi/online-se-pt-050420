@@ -12,7 +12,6 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 2. [Link for Student Weekly Availability Calendar](https://www.when2meet.com/?9139773-MqhEY)
 
 ### Any questions or issues please DM me. 
-## Welcome to Sinatra! This week we are adding the browser! You will now be able to get requests from a user's browser and send things to desplay in a browser. Cool!
 
 ## "Bonus" Material: There is important information in these sections. Be sure you know How the Internet Works! You need to understand basic HTTP and the Request-Response cycle. If you're not very familiar with HTML, this is the time to increase your understanding.  CSS plays a more minor role for this project, but you'll want to know it for your Rails project and later.
 
@@ -20,6 +19,28 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 ##### See below for new Pod and Pair Programming assignments. If you need to miss a pod one week, please see the calendar above for other pods you may join.  If your weekly time doesn't work, contact me to move pods.
 
 # Weekly Assignments
+
+### Week 13: July 27, 2020
+#### This week's focus: Sinatra MVC/Forms
+
+1. Day 1 -  Sinatra: MVC And Forms (Sinatra Basic Views Lab) (4 Lessons)
+2. Day 2 - Sinatra: MVC And Forms (Finish), Sinatra: Forms (Intro To Capybara Tests) (4 Lessons)
+3. Day 3 - Sinatra: Forms (Basic Sinatra Forms Lab) (5 Lessons)
+4. Day 4 - Sinatra: Forms (Sinatra Basic Forms Lab) (4 Lessons)
+5. Day 5 - Sinatra: Forms (Finish) (4 Lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+| Live Lecture - Sinatra REST, MVC, and Forms | TBA
+| Live Lecture - Sinatra CRUD | TBA
+
+##### Next week:
+
+1. Day 1 -  Sinatra: Sessions (4 Lessons)
+2. Day 2 - Sinatra: ActiveRecord (Sinatra Sessions Lab- User Logins) (5 Lessons)
+3. Day 3 - Sinatra: ActiveRecord (Sinatra RESTful Routes Lab) (5 Lessons)
+4. Day 4 - Sinatra: ActiveRecord (Finish) (5 Lessons)
+5. Day 5 - Sinatra Project Mode: Fwitter (1 Lessons)
 
 ### Week 12: July 20, 2020
 #### This week's focus: Sinatra Basics
@@ -32,15 +53,8 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
-| Intro to Sinatra | TBA
-
-##### Next week:
-
-1. Day 1 -  Sinatra: MVC And Forms (Sinatra Basic Views Lab) (4 Lessons)
-2. Day 2 - Sinatra: MVC And Forms (Finish), Sinatra: Forms (Intro To Capybara Tests) (4 Lessons)
-3. Day 3 - Sinatra: Forms (Basic Sinatra Forms Lab) (5 Lessons)
-4. Day 4 - Sinatra: Forms (Sinatra Basic Forms Lab) (4 Lessons)
-5. Day 5 - Sinatra: Forms (Finish) (4 Lessons)
+| Intro to Sinatra (Part 1) | TBA
+| Intro to Sinatra (Part 2) | TBA
 
 
 ### Week 11: July 13, 2020
