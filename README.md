@@ -53,7 +53,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
-| Intro to Sinatra (Part 1) | [Video](https://youtu.be/5EcWZewFhRs)
+| Intro to Sinatra (Part 1) | [Video](https://youtu.be/5EcWZewFhRs) | [Code](https://github.com/betalantz/sinatra_intro)
 | Intro to Sinatra (Part 2) | [Video](https://youtu.be/TA9_QLnvHjw)
 
 
