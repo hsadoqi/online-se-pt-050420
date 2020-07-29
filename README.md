@@ -31,7 +31,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
-| Live Lecture - Sinatra REST, MVC, and Forms | TBA
+| Live Lecture - Sinatra REST, MVC, and Forms | [Video: Part 1](https://youtu.be/2ShaYVh5UmM) [Video: Part 2](https://youtu.be/yRTFE7_RAO8) | [Code](https://github.com/betalantz/sinatra_mvc_todos)
 | Live Lecture - Sinatra CRUD | TBA
 
 ##### Next week:
