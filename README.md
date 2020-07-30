@@ -8,7 +8,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 ## Helpful Links 
 
-1. [Zoom link for Pods, 1:1's and Study Groups](https://wework.zoom.com/my/lantzmeetingroom?pwd=Mm5JYTgzOU1JRmhaTlJmT3dKbUxxQT09)
+1. [Zoom link for Pods, 1:1's and Study Groups](https://flatironschool.zoom.us/my/lantzchatroom?pwd=bU1QZC9PV0t5SUx2cmhxdGQ0NVRBdz09)
 2. [Link for Student Weekly Availability Calendar](https://www.when2meet.com/?9139773-MqhEY)
 
 ### Any questions or issues please DM me. 
