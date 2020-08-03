@@ -13,12 +13,36 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 ### Any questions or issues please DM me. 
 
-## "Bonus" Material: There is important information in these sections. Be sure you know How the Internet Works! You need to understand basic HTTP and the Request-Response cycle. If you're not very familiar with HTML, this is the time to increase your understanding.  CSS plays a more minor role for this project, but you'll want to know it for your Rails project and later.
+### I've been seeing good progress in pods recently! Keep up the good work, everyone!
 
-### Some adjustments to pods and pairs are coming later this week.
-##### See below for new Pod and Pair Programming assignments. If you need to miss a pod one week, please see the calendar above for other pods you may join.  If your weekly time doesn't work, contact me to move pods.
+### Please note that the Zoom link for Pods, 1:1s and Study Groups above has been updated!
+
+### "Bonus" Material: There is important information in these sections. Be sure you know How the Internet Works! You need to understand basic HTTP and the Request-Response cycle. If you're not very familiar with HTML, this is the time to increase your understanding.  CSS plays a more minor role for this project, but you'll want to know it for your Rails project and later.
+
+##### See below for Pod and Pair Programming assignments. If you need to miss a pod one week, please see the calendar above for other pods you may join.  If your weekly time doesn't work, contact me to move pods.
 
 # Weekly Assignments
+
+### Week 14: Aug 3, 2020
+#### This week's focus: Sinatra: ActiveRecord
+
+1. Day 1 -  Sinatra: Sessions (4 Lessons)
+2. Day 2 - Sinatra: ActiveRecord (Sinatra Sessions Lab- User Logins) (5 Lessons)
+3. Day 3 - Sinatra: ActiveRecord (Sinatra RESTful Routes Lab) (5 Lessons)
+4. Day 4 - Sinatra: ActiveRecord (Finish) (5 Lessons)
+5. Day 5 - Sinatra Project Mode: Fwitter (1 Lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+| Live Lecture - Sinatra Blog Demo: User login and sessions | TBA
+
+##### Next week:
+
+Project Week 1
+  - plan your project
+  - begin building your project
+  - come to OOH and/or 1:1s and ask lots of questions!
+
 
 ### Week 13: July 27, 2020
 #### This week's focus: Sinatra MVC/Forms
@@ -34,13 +58,6 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Live Lecture - Sinatra REST, MVC, and Forms | [Video: Part 1](https://youtu.be/2ShaYVh5UmM) [Video: Part 2](https://youtu.be/yRTFE7_RAO8) | [Code](https://github.com/betalantz/sinatra_mvc_todos)
 | Live Lecture - Sinatra Blog Demo: User Signup and Password Protection | [Video](https://youtu.be/I_vHqkg0R2c)
 
-##### Next week:
-
-1. Day 1 -  Sinatra: Sessions (4 Lessons)
-2. Day 2 - Sinatra: ActiveRecord (Sinatra Sessions Lab- User Logins) (5 Lessons)
-3. Day 3 - Sinatra: ActiveRecord (Sinatra RESTful Routes Lab) (5 Lessons)
-4. Day 4 - Sinatra: ActiveRecord (Finish) (5 Lessons)
-5. Day 5 - Sinatra Project Mode: Fwitter (1 Lessons)
 
 ### Week 12: July 20, 2020
 #### This week's focus: Sinatra Basics
