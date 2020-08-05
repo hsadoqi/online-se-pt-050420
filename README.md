@@ -34,7 +34,8 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
-| Live Lecture - Sinatra Blog Demo: User login and sessions | TBA
+| Live Lecture - Sinatra Blog Demo Pt 2: User login and sessions | [Video](https://youtu.be/62Ix4R5GHIM)
+| Live Lecture - Sinatra Blog Demo Pt 3: Validation and protecting resources | TBA
 
 ##### Next week:
 
