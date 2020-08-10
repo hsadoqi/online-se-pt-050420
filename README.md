@@ -13,15 +13,28 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 ### Any questions or issues please DM me. 
 
-### I've been seeing good progress in pods recently! Keep up the good work, everyone!
-
-### Please note that the Zoom link for Pods, 1:1s and Study Groups above has been updated!
-
-### "Bonus" Material: There is important information in these sections. Be sure you know How the Internet Works! You need to understand basic HTTP and the Request-Response cycle. If you're not very familiar with HTML, this is the time to increase your understanding.  CSS plays a more minor role for this project, but you'll want to know it for your Rails project and later.
-
-##### See below for Pod and Pair Programming assignments. If you need to miss a pod one week, please see the calendar above for other pods you may join.  If your weekly time doesn't work, contact me to move pods.
+### Sinatra Project Week 1
 
 # Weekly Assignments
+
+### Week 15: Aug 10, 2020
+#### This week's focus: Sinatra: Project Week 1
+
+Project Week 1
+  - plan your project
+  - begin building your project
+  - come to OOH and/or 1:1s and ask lots of questions!
+  
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+| Study Group: Project Requirements and Planning | TBA
+
+##### Next week:
+
+Project Week2
+  - finish your project
+  - submit project, video and blog links
+  - schedule your review
 
 ### Week 14: Aug 3, 2020
 #### This week's focus: Sinatra: ActiveRecord
@@ -36,13 +49,6 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | ------------- |:-------------:| ----------- | ------------------- |
 | Live Lecture - Sinatra Blog Demo Pt 2: User login and sessions | [Video](https://youtu.be/62Ix4R5GHIM)
 | Live Lecture - Sinatra Blog Demo Pt 3: Validation and protecting resources | TBA
-
-##### Next week:
-
-Project Week 1
-  - plan your project
-  - begin building your project
-  - come to OOH and/or 1:1s and ask lots of questions!
 
 
 ### Week 13: July 27, 2020
