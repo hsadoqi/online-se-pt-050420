@@ -11,9 +11,17 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 1. [Zoom link for Pods, 1:1's and Study Groups](https://flatironschool.zoom.us/my/lantzchatroom?pwd=bU1QZC9PV0t5SUx2cmhxdGQ0NVRBdz09)
 2. [Link for Student Weekly Availability Calendar](https://www.when2meet.com/?9139773-MqhEY)
 
-### Any questions or issues please DM me. 
+## ATTENTION GAME OF CODERS: SINATRA PROJECT WEEK 1!!!!
 
-### Sinatra Project Week 1
+### Pair Programming is not required this week! There are no POD groups! OOH WILL be held regularly throughout the week! Check the Cohort Calendar and Study Groups!
+
+### DO NOT LET YOURSELF FEEL ALONE DURING THIS PROJECT! I am here to help you, reach out if you need me!
+
+### If you are behind, GET CAUGHT UP!!!
+
+### AAQ does NOT support projects, but I do!!!
+
+### UTILIZE OOH and me!!
 
 # Weekly Assignments
 
@@ -21,9 +29,9 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 #### This week's focus: Sinatra: Project Week 1
 
 Project Week 1
-  - plan your project
-  - begin building your project
-  - come to OOH and/or 1:1s and ask lots of questions!
+1. Plan your project
+2. Begin building your project
+3. Come to OOH and/or 1:1s and ask lots of questions!
   
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
@@ -31,10 +39,10 @@ Project Week 1
 
 ##### Next week:
 
-Project Week2
-  - finish your project
-  - submit project, video and blog links
-  - schedule your review
+Project Week 2
+1. Finish your project
+2. [Schedule your review](https://go.oncehub.com/StructuredProgramsinatraProjectReviews) (Do NOT schedulue your review until you've submitted your project on Learn.co.  Do NOT use the scheduling link on Learn.co, which is for Self-Paced)
+I am on the Sinatra review team, but I should be the reviewer-of-last-resort for this cohort. If you get me when scheduling, try your best to schedule with another instructor first. Slack me if you're having trouble finding slots and we'll try to get more time added to the calendar.
 
 ### Week 14: Aug 3, 2020
 #### This week's focus: Sinatra: ActiveRecord
