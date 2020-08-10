@@ -56,7 +56,7 @@ I am on the Sinatra review team, but I should be the reviewer-of-last-resort for
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 | Live Lecture - Sinatra Blog Demo Pt 2: User login and sessions | [Video](https://youtu.be/62Ix4R5GHIM)
-| Live Lecture - Sinatra Blog Demo Pt 3: Validation and protecting resources | TBA
+| Live Lecture - Sinatra Blog Demo Pt 3: Validation and protecting resources | [Video](https://youtu.be/xTBWX56sxKI)
 
 
 ### Week 13: July 27, 2020
