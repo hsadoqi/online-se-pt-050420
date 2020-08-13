@@ -37,7 +37,7 @@ Project Week 1
 | ------------- |:-------------:| ----------- | ------------------- |
 | Study Group: Project Requirements and Planning | [Video](https://youtu.be/Y7Xfkczao2w) 
 | Sinatra Demo Pt. 4: Update, Delete, and Protecting Resources | [Video](https://youtu.be/8rvCpGrvT1E) | [Code](https://github.com/betalantz/sinatra_blog_demo)
-| Sinatra Demo Pt. 5: Bonus features-error messaging | TBA
+| Sinatra Demo Pt. 5: Bonus features-error messaging | [Video](https://youtu.be/yBxrAh97AMg)
 
 ##### Next week:
 
