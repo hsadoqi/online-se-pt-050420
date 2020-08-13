@@ -35,7 +35,9 @@ Project Week 1
   
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
-| Study Group: Project Requirements and Planning | TBA
+| Study Group: Project Requirements and Planning | [Video](https://youtu.be/Y7Xfkczao2w) 
+| Sinatra Demo Pt. 4: Update, Delete, and Protecting Resources | [Video](https://youtu.be/8rvCpGrvT1E) | [Code](https://github.com/betalantz/sinatra_blog_demo)
+| Sinatra Demo Pt. 5: Bonus features-error messaging | TBA
 
 ##### Next week:
 
@@ -56,7 +58,7 @@ I am on the Sinatra review team, but I should be the reviewer-of-last-resort for
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 | Live Lecture - Sinatra Blog Demo Pt 2: User login and sessions | [Video](https://youtu.be/62Ix4R5GHIM)
-| Live Lecture - Sinatra Blog Demo Pt 3: Validation and protecting resources | [Video](https://youtu.be/xTBWX56sxKI)
+| Live Lecture - Sinatra Blog Demo Pt 3: More sessions and Validation | [Video](https://youtu.be/xTBWX56sxKI)
 
 
 ### Week 13: July 27, 2020
