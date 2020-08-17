@@ -9,9 +9,11 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 ## Helpful Links 
 
 1. [Zoom link for Pods, 1:1's and Study Groups](https://flatironschool.zoom.us/my/lantzchatroom?pwd=bU1QZC9PV0t5SUx2cmhxdGQ0NVRBdz09)
-2. [Link for Student Weekly Availability Calendar](https://www.when2meet.com/?9139773-MqhEY)
+2. [Link for Student Weekly Availability Calendar](https://www.when2meet.com/?9548777-lk3cq)
 
-## ATTENTION GAME OF CODERS: SINATRA PROJECT WEEK 1!!!!
+## ATTENTION GAME OF CODERS: SINATRA PROJECT WEEK 2!!!!
+
+### Sinatra Project is due on 8/23. You must pass your project review by 9/11. If you don't pass review by 9/11, you will have to continue in another cohort or in the Self-Paced program.
 
 ### Pair Programming is not required this week! There are no POD groups! OOH WILL be held regularly throughout the week! Check the Cohort Calendar and Study Groups!
 
@@ -24,6 +26,20 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 ### UTILIZE OOH and me!!
 
 # Weekly Assignments
+
+### Week 16: Aug 17, 2020
+#### This week's focus: Sinatra: Project Week 2
+
+Project Week 2
+1. Finish your project
+2. [Schedule your review](https://go.oncehub.com/StructuredProgramsinatraProjectReviews) (Do NOT schedulue your review until you've submitted your project on Learn.co.  Do NOT use the scheduling link on Learn.co, which is for Self-Paced)
+I am on the Sinatra review team, but I should be the reviewer-of-last-resort for this cohort. If you get me when scheduling, try your best to schedule with another instructor first. Slack me if you're having trouble finding slots and we'll try to get more time added to the calendar.
+
+##### Next week:
+
+1. Break Week! No regularly scheduled study groups or pods.  No new lesson requirements.
+2. Get caught up (if you need to)!
+3. Lantz will not be available.
 
 ### Week 15: Aug 10, 2020
 #### This week's focus: Sinatra: Project Week 1
@@ -39,12 +55,6 @@ Project Week 1
 | Sinatra Demo Pt. 4: Update, Delete, and Protecting Resources | [Video](https://youtu.be/8rvCpGrvT1E) | [Code](https://github.com/betalantz/sinatra_blog_demo)
 | Sinatra Demo Pt. 5: Bonus features-error messaging | [Video](https://youtu.be/yBxrAh97AMg)
 
-##### Next week:
-
-Project Week 2
-1. Finish your project
-2. [Schedule your review](https://go.oncehub.com/StructuredProgramsinatraProjectReviews) (Do NOT schedulue your review until you've submitted your project on Learn.co.  Do NOT use the scheduling link on Learn.co, which is for Self-Paced)
-I am on the Sinatra review team, but I should be the reviewer-of-last-resort for this cohort. If you get me when scheduling, try your best to schedule with another instructor first. Slack me if you're having trouble finding slots and we'll try to get more time added to the calendar.
 
 ### Week 14: Aug 3, 2020
 #### This week's focus: Sinatra: ActiveRecord
