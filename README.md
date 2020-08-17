@@ -31,9 +31,10 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 #### This week's focus: Sinatra: Project Week 2
 
 Project Week 2
-1. Finish your project
-2. [Schedule your review](https://go.oncehub.com/StructuredProgramsinatraProjectReviews) (Do NOT schedulue your review until you've submitted your project on Learn.co.  Do NOT use the scheduling link on Learn.co, which is for Self-Paced)
+1. Finish and submit your project
+2. [Schedule your review](https://go.oncehub.com/StructuredProgramsinatraProjectReviews) (Do NOT schedule your review until you've submitted your project on Learn.co.  Do NOT use the scheduling link on Learn.co, which is for Self-Paced)
 I am on the Sinatra review team, but I should be the reviewer-of-last-resort for this cohort. If you get me when scheduling, try your best to schedule with another instructor first. Slack me if you're having trouble finding slots and we'll try to get more time added to the calendar.
+3. Submit new weekly availability for the Rails section at this new [link](https://www.when2meet.com/?9548777-lk3cq)
 
 ##### Next week:
 
