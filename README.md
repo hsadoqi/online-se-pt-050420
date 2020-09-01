@@ -26,6 +26,12 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 4. Day 4 - Rails: Intro to REST (RESTful Action Index Lab) (2 Lessons)
 5. Day 5 - Rails: Intro to REST (Finish) (2 Lessons)
 
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 17**|
+| Intro to Rails | TBA
+| Rails Models and RESTful Routes
+
 ##### Next week:
 
 1. Day 1 -  Rails: Intro to ActionView (4 Lessons)
@@ -45,19 +51,27 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Pod Name | Date & Time | Students |
 | ----- | ----- | ----- |
 | **Borg** | **Mondays, 6pm ET** | 
-| | TBA | TBA
+| | Billy F | Marvin R
+| | Morgan C | Dustin B
+| Kevin B | Ghameerah M | Vianka R
 | **Hopper** | **Tuesdays, 8pm ET** | 
-| | TBA | TBA
+| | Amal A | Catheryn S
+| Victor W | Kiran R | Emeka K
 | **Fox** | **Wednesdays, 4pm ET** |
-| | TBA | TBA
+| | Ian H | Justin Z
+| Jonathan E | Kasey A | Guillermo M
 | **Turing** | **Wednesdays, 9pm ET** | 
-| | TBA | TBA
+| | Cedric J | Tommy W
+| Zachary L | Matt F | Isabella H
 | **Lovelace** | **Thursdays, 11am ET** | 
-| | TBA | TBA
+| | Richard C | Jeff B
+| Jenn P | Tyler C | Jack Q
 | **Windsor** | **Thursdays, 5pm ET** | 
-| | TBA | TBA
+| Ben P | Ryan D | Ian B
+| Anne F | Kamille L | Thanh P
 | **Tang** | **Fridays, 6:30pm ET** | 
-| | TBA | TBA
+| Dang N | Oscar O | Valentina P
+| Patrick A | Daniel K | James R
 
 # Pair Programming Assignments
 
@@ -65,7 +79,25 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 | Student | Student | Student |
 | ----- | ----- | ----- |
-| TBA | TBA | TBA
+|Victor Williams|kiran ram||
+|Dustin Blanton|Amal Abdu|||
+|Billy Ferrara|Zachary Lynch||
+|Ghameerah McCullers|Guillermo Martinez||
+|Emeka Kanu|Jack Quinoa||
+|Kamille Longalong|Anne Fausto||
+|Jennifer Prince|Marvin Reyes||
+|Dang Nguyen|isabella g henriques||
+|Morgan Collado|Vianka Rivera||
+|Catheryne Small|James Rogers||
+|Patrick A.|Ryan Davey||
+|Ben Parish|Matt Farncombe||
+|Cedric Joaquin|Kevin Boston||
+|Valentina Panic|Tyler Croley||
+|Richard Cho|Thanh Pham||
+|Daniel Kwon|Oscar Ore||
+|Jonathan East|Ian Hutson||
+|Ian Bumatay|Justin R. Zweifel||
+|Jeff Bai|Kasey Arnold|Tommy Werner|
 
 # Study Group Videos and Code
 
