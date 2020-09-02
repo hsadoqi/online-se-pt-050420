@@ -29,7 +29,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 17**|
-| Intro to Rails | TBA
+| Intro to Rails | [Video](https://drive.google.com/file/d/1VzVb2-S47oxQy2c-z-xhB0IqxL6qFeG1/view?usp=sharing)
 | Rails Models and RESTful Routes
 
 ##### Next week:
