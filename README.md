@@ -17,6 +17,29 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 # Weekly Assignments
 
+### Week 18: Sept 8, 2020
+#### This week's focus: Rails CRUD
+
+1. Day 1 -  Rails: Intro to ActionView (4 Lessons)
+2. Day 2 - Rails: CRUD with Rails (Index, Show, New, Create Lab) (3 Lessons)
+3. Day 3 - Rails: CRUD with Rails (Strong Params Basics) (3 Lessons)
+4. Day 4 - Rails: CRUD with Rails (Rails Generators) (3 Lessons)
+5. Day 5 - Rails: CRUD with Rails (Finish) (3 Lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 18**|
+| Rails CRUD | TBA
+
+##### Next week:
+
+1. Day 1 -  Rails: Validations and Forms (Validations In Controller Actions Lab) (4 Lessons)
+2. Day 2 - Rails: Validations and Forms (Validations With Form_for) (3 Lessons)
+3. Day 3 - Rails: Validations and Forms (Finish) (3 Lessons)
+4. Day 4 - Rails: Associations and Rails (ActiveRecord Lifecycle Methods) (3 Lessons)
+5. Day 5 - Rails: Associations and Rails (Forms And Basic Associations Lab) (4 Lessons)
+
+
 ### Week 17: Aug 31, 2020
 #### This week's focus: Introduction to Rails
 
@@ -30,15 +53,8 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 17**|
 | Intro to Rails | [Video](https://drive.google.com/file/d/1VzVb2-S47oxQy2c-z-xhB0IqxL6qFeG1/view?usp=sharing)
-| Rails Models and RESTful Routes
+| Rails Models and RESTful Routes | [Video](https://youtu.be/cB8FSzjSLR8)
 
-##### Next week:
-
-1. Day 1 -  Rails: Intro to ActionView (4 Lessons)
-2. Day 2 - Rails: CRUD with Rails (Index, Show, New, Create Lab) (3 Lessons)
-3. Day 3 - Rails: CRUD with Rails (Strong Params Basics) (3 Lessons)
-4. Day 4 - Rails: CRUD with Rails (Rails Generators) (3 Lessons)
-5. Day 5 - Rails: CRUD with Rails (Finish) (3 Lessons)
 
 # Pod Assignments
 
