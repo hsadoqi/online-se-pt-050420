@@ -17,6 +17,23 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 # Weekly Assignments
 
+### Week 19: Sept 14, 2020
+#### This week's focus: Rails Validations && Associations
+
+1. Day 1 - Rails: Validations and Forms (Validations In Controller Actions Lab) (4 Lessons)
+2. Day 2 - Rails: Validations and Forms (Validations With Form_for) (3 Lessons)
+3. Day 3 - Rails: Validations and Forms (Finish) (3 Lessons)
+4. Day 4 - Rails: Associations and Rails (ActiveRecord Lifecycle Methods) (3 Lessons)
+5. Day 5 - Rails: Associations and Rails (Forms And Basic Associations Lab) (4 Lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 19**|
+| Rails Validations | TBA
+| Rails Associations & Nested Forms | TBA
+
+##### Next week:
+
 ### Week 18: Sept 8, 2020
 #### This week's focus: Rails CRUD
 
@@ -29,16 +46,8 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 18**|
-| Rails CRUD | TBA
-
-##### Next week:
-
-1. Day 1 -  Rails: Validations and Forms (Validations In Controller Actions Lab) (4 Lessons)
-2. Day 2 - Rails: Validations and Forms (Validations With Form_for) (3 Lessons)
-3. Day 3 - Rails: Validations and Forms (Finish) (3 Lessons)
-4. Day 4 - Rails: Associations and Rails (ActiveRecord Lifecycle Methods) (3 Lessons)
-5. Day 5 - Rails: Associations and Rails (Forms And Basic Associations Lab) (4 Lessons)
-
+| Rails CRUD | [Video](https://youtu.be/hg4v8T8ScbI)
+| Rails CRUD Refactor && OOH | [Video](https://youtu.be/nxYjN1rsCas)
 
 ### Week 17: Aug 31, 2020
 #### This week's focus: Introduction to Rails
