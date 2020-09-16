@@ -29,7 +29,10 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 19**|
-| Rails Validations | TBA
+| Rails Validations | [Video](https://youtu.be/Uu_UGvGqOI4) | N/A | [Rails API](https://api.rubyonrails.org/classes/ActiveModel/Validations/ClassMethods.html)
+|  |  | [RailsGuides: Validations](https://guides.rubyonrails.org/active_record_validations.html#validation-helpers)
+|  |  | [Rails Sourcecode](https://github.com/rails/rails/blob/ed6da7038ad9c7d65ad004daaba524c08706c131/activemodel/lib/active_model/validations/validates.rb#L106)
+|  |  | [Blog: Validations & Database Constraints](https://thoughtbot.com/blog/validation-database-constraint-or-both)
 | Rails Associations & Nested Forms | TBA
 
 ##### Next week:
