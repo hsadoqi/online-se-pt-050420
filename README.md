@@ -13,7 +13,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 ## WELCOME TO RAILS!
 
-### New pod and pair programming assignments will be posted below soon!
+### Be sure you are pair programming with someone at least once a week! This is one of the best ways to prepare for the live-coding portion of your project reviews!
 
 # Weekly Assignments
 
