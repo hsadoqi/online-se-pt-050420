@@ -17,6 +17,27 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 # Weekly Assignments
 
+### Week 20: Sept 21, 2020
+#### This week's focus: Rails Associations && Layouts and Partials
+
+Day 1 -  Rails: Associations and Rails (Basic Nested Forms Lab) (2 Lessons)
+Day 2 - Rails: Associations and Rails (Displaying Has Many Through Lab) (2 Lessons)
+Day 3 - Rails: Associations and Rails (Finish) (4 Lessons)
+Day 4 - Rails: Layouts and Partials (Layouts And Templates In Rails Lab) (2 Lessons)
+Day 5 - Rails: Layouts and Partials (Finish) (4 Lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 20**|
+| Rails Layouts, Partials, & Helpers | TBA
+
+##### Next week:
+1. Day 1 - Rails: Refactoring with Helpers and Model Methods (Refactoring Views With Helpers Lab) (3 Lessons)
+2. Day 2 - Rails: Refactoring with Helpers and Model Methods (Finish) (2 Lessons)
+3. Day 3 - Rails: Routes and Resources (Routing And Nested Resources Lab) (2 Lessons)
+4. Day 4 - Rails: Routes and Resources (Modifying Nested Resources Lab) (2 Lessons)
+5. Day 5 - Rails: Routes and Resources (Finish) (2 Lessons)
+
 ### Week 19: Sept 14, 2020
 #### This week's focus: Rails Validations && Associations
 
@@ -29,13 +50,11 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 19**|
-| Rails Validations | [Video](https://youtu.be/Uu_UGvGqOI4) | N/A | [Rails API](https://api.rubyonrails.org/classes/ActiveModel/Validations/ClassMethods.html)
+| Rails Validations | [Video](https://youtu.be/UgogNjPaaTs) | N/A | [Rails API](https://api.rubyonrails.org/classes/ActiveModel/Validations/ClassMethods.html)
 |  |  | [RailsGuides: Validations](https://guides.rubyonrails.org/active_record_validations.html#validation-helpers)
 |  |  | [Rails Sourcecode](https://github.com/rails/rails/blob/ed6da7038ad9c7d65ad004daaba524c08706c131/activemodel/lib/active_model/validations/validates.rb#L106)
 |  |  | [Blog: Validations & Database Constraints](https://thoughtbot.com/blog/validation-database-constraint-or-both)
-| Rails Associations & Nested Forms | TBA
-
-##### Next week:
+| Rails Associations & Nested Forms | [Video](https://youtu.be/kKsGoFx-QK8)
 
 ### Week 18: Sept 8, 2020
 #### This week's focus: Rails CRUD
