@@ -29,7 +29,8 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 20**|
-| Rails Layouts, Partials, & Helpers | TBA
+| Rails Layouts, Partials, & Helpers | [Video](https://youtu.be/ZI7wDRrXamQ) | [Repo](https://github.com/betalantz/rails_refactoring_mkdoh) | [Where to put Rails code](http://codefol.io/posts/where-do-i-put-my-code-in-rails-updated/)
+|  |  | [Partial docs](https://api.rubyonrails.org/classes/ActionView/PartialRenderer.html) | [Helpers in views and controllers](https://medium.com/@pk60905/how-to-use-view-helper-in-controller-and-use-controller-method-in-view-84ecb15269c7)
 
 ##### Next week:
 1. Day 1 - Rails: Refactoring with Helpers and Model Methods (Refactoring Views With Helpers Lab) (3 Lessons)
