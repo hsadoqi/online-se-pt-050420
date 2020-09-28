@@ -1,7 +1,7 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzNjb3RvdjNhMXRsajRzZmY5YXRvZ2wzcDJzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23F09300&amp;title=onl01-seng-pt-050420%20Cohort%20Calendar" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Your Cohort Lead: 
-Lantz Warrick - lantz.warrick@flatironschool.com - [Booking Link](https://go.oncehub.com/LantzWeekly11)
+Lantz Warrick - lantz.warrick@flatironschool.com - [Booking Link]()
 
 ## Your Educational Coach: 
 Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](http://lauralacy-thompson.youcanbook.me/)
@@ -17,6 +17,27 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 # Weekly Assignments
 
+### Week 21: Sept 28, 2020
+#### This week's focus: Refactoring Rails && Nested Resources
+
+1. Day 1 - Rails: Refactoring with Helpers and Model Methods (Refactoring Views With Helpers Lab) (3 Lessons)
+2. Day 2 - Rails: Refactoring with Helpers and Model Methods (Finish) (2 Lessons)
+3. Day 3 - Rails: Routes and Resources (Routing And Nested Resources Lab) (2 Lessons)
+4. Day 4 - Rails: Routes and Resources (Modifying Nested Resources Lab) (2 Lessons)
+5. Day 5 - Rails: Routes and Resources (Finish) (2 Lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 21**|
+| Routing in Rails - Nested Routes | TBA
+
+##### Next week:
+1. Day 1 -  Rails: Authentication (Cookies And Sessions Lab) (3 Lessons)
+2. Day 2 - Rails: Authentication (Login Required Lab) (4 Lessons)
+3. Day 3 - Rails: Authentication (Video Review: Authentication) (3 Lessons)
+4. Day 4 - Rails: Authentication (Omniauth Lab) (3 Lessons)
+5. Day 5 - Rails: Authentication (Finish), Rails: Popular Gems (3 Lessons)
+
 ### Week 20: Sept 21, 2020
 #### This week's focus: Rails Associations && Layouts and Partials
 
@@ -31,13 +52,8 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 |**Week 20**|
 | Rails Layouts, Partials, & Helpers | [Video](https://youtu.be/ZI7wDRrXamQ) | [Repo](https://github.com/betalantz/rails_refactoring_mkdoh) | [Where to put Rails code](http://codefol.io/posts/where-do-i-put-my-code-in-rails-updated/)
 |  |  | [Partial docs](https://api.rubyonrails.org/classes/ActionView/PartialRenderer.html) | [Helpers in views and controllers](https://medium.com/@pk60905/how-to-use-view-helper-in-controller-and-use-controller-method-in-view-84ecb15269c7)
+| OOH: Has Many Through In Labs Walkthrough | [Video](https://youtu.be/s_bLv92F9UE)
 
-##### Next week:
-1. Day 1 - Rails: Refactoring with Helpers and Model Methods (Refactoring Views With Helpers Lab) (3 Lessons)
-2. Day 2 - Rails: Refactoring with Helpers and Model Methods (Finish) (2 Lessons)
-3. Day 3 - Rails: Routes and Resources (Routing And Nested Resources Lab) (2 Lessons)
-4. Day 4 - Rails: Routes and Resources (Modifying Nested Resources Lab) (2 Lessons)
-5. Day 5 - Rails: Routes and Resources (Finish) (2 Lessons)
 
 ### Week 19: Sept 14, 2020
 #### This week's focus: Rails Validations && Associations
