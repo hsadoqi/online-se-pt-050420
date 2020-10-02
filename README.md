@@ -29,7 +29,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 21**|
-| Routing in Rails - Nested Routes | TBA
+| Routing in Rails - Nested Routes | [Video](https://youtu.be/xyHuAlIIpWU) | [Code](https://github.com/betalantz/rails_nested_routes_demo)
 
 ##### Next week:
 1. Day 1 -  Rails: Authentication (Cookies And Sessions Lab) (3 Lessons)
