@@ -17,6 +17,23 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 # Weekly Assignments
 
+### Week 22: Oct 5, 2020
+#### This week's focus: Refactoring Rails && Nested Resources
+
+1. Day 1 -  Rails: Authentication (Cookies And Sessions Lab) (3 Lessons)
+2. Day 2 - Rails: Authentication (Login Required Lab) (4 Lessons)
+3. Day 3 - Rails: Authentication (Video Review: Authentication) (3 Lessons)
+4. Day 4 - Rails: Authentication (Omniauth Lab) (3 Lessons)
+5. Day 5 - Rails: Authentication (Finish), Rails: Popular Gems (3 Lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 21**|
+| Authentication in Rails (without Devise) | [Video](https://youtu.be/82gg4n-_FOk) | [Code](https://github.com/hsadoqi/rails-auth-lecture)
+
+##### Next week:
+Project Week!
+
 ### Week 21: Sept 28, 2020
 #### This week's focus: Refactoring Rails && Nested Resources
 
