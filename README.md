@@ -30,6 +30,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 21**|
 | Authentication in Rails (without Devise) | [Video](https://youtu.be/82gg4n-_FOk) | [Code](https://github.com/hsadoqi/rails-auth-lecture)
+| Rails Project Requirements Walkthrough | [Video](https://www.youtube.com/watch?v=0kpZ7A8iBnw) | [Code] (https://github.com/hsadoqi/rails-proj-requirements)
 
 ##### Next week:
 Project Week!
