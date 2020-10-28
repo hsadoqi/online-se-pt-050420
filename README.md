@@ -17,8 +17,23 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 # Weekly Assignments
 
+### Week 25: Oct 26, 2020
+#### This week's focus: DOM and JS Fundamentals
+
+1. Day 1 - JS and Rails - Defining Front-End Web Programming, JS and Rails - Manipulating the DOM (Introducing the DOM and Just Enough JavaScript) (3 Lessons)
+2. Day 2 - JS and Rails - Manipulating the DOM (Changing the DOM with Dev Tools and JavaScript) (3 Lessons)
+3. Day 3 - JS and Rails - Manipulating the DOM (The DOM Tree)(4 Lessons)
+4. Day 4 - JS and Rails - Manipulating the DOM (JS Fundamentals: Looping and Iteration Code Along) (3 Lessons)
+5. Day 5 - JS and Rails - Manipulating the DOM (Finish) (4 Lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 25**|
+| Intro to DOM and DOM Manipulation| [Video](https://www.youtube.com/watch?v=ZTlRXQ7L9js&feature=youtu.be) | [Slides](https://docs.google.com/presentation/d/1CZZgV3H0bI27jQro4OVJLMsxVljGjRrtoDqpHxSMFhY/edit#slide=id.gc6f73a04f_0_5)
+
+
 ### Week 22: Oct 5, 2020
-#### This week's focus: Refactoring Rails && Nested Resources
+#### This week's focus: Rails Auth
 
 1. Day 1 -  Rails: Authentication (Cookies And Sessions Lab) (3 Lessons)
 2. Day 2 - Rails: Authentication (Login Required Lab) (4 Lessons)
@@ -28,7 +43,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
-|**Week 21**|
+|**Week 22**|
 | Authentication in Rails (without Devise) | [Video](https://youtu.be/82gg4n-_FOk) | [Code](https://github.com/hsadoqi/rails-auth-lecture)
 | Rails Project Requirements Walkthrough | [Video](https://www.youtube.com/watch?v=0kpZ7A8iBnw) | [Code] (https://github.com/hsadoqi/rails-proj-requirements)
 | Rails Project Inspo Extravaganza | [Video](https://youtu.be/48Ofz8-L3jA)
