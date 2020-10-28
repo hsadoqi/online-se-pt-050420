@@ -11,7 +11,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 1. [Zoom link for Pods, 1:1's and Study Groups](https://flatironschool.zoom.us/my/lantzchatroom?pwd=bU1QZC9PV0t5SUx2cmhxdGQ0NVRBdz09)
 2. [Link for Student Weekly Availability Calendar](https://www.when2meet.com/?9548777-lk3cq)
 
-## WELCOME TO RAILS!
+## WELCOME TO JavaScript!
 
 ### Be sure you are pair programming with someone at least once a week! This is one of the best ways to prepare for the live-coding portion of your project reviews!
 
