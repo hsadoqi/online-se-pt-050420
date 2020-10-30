@@ -30,6 +30,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 25**|
 | Intro to DOM and DOM Manipulation| [Video](https://www.youtube.com/watch?v=ZTlRXQ7L9js&feature=youtu.be) | [Slides](https://docs.google.com/presentation/d/1CZZgV3H0bI27jQro4OVJLMsxVljGjRrtoDqpHxSMFhY/edit#slide=id.gc6f73a04f_0_5)
+| JS Fundamentals | [Video](https://youtu.be/4KOBz3ttgwM) | [Slides](https://docs.google.com/presentation/d/1Z2rREmTL18vRE6Kbg7R8ufC-0GhBnUjL14y4lzclgfk/edit?usp=sharing)
 
 
 ### Week 22: Oct 5, 2020
