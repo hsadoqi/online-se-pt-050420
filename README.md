@@ -37,7 +37,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 25**|
 | JS Functions and Events | [Video](https://youtu.be/wmQoLyRs-Js) | [Code] (https://github.com/hsadoqi/js_functions_and_events) | [Slides](https://docs.google.com/presentation/d/1BJuM0vWvtJ9ptRE9TlvrZBPHSA-nPvpZj0gS76nz2MY/edit?usp=sharing)
-
+| JS Review | [Video](https://youtu.be/3AhcSnetu4o)| |
 
 ### Week 25: Oct 26, 2020
 #### This week's focus: DOM and JS Fundamentals
