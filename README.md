@@ -15,7 +15,30 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 ### Be sure you are pair programming with someone at least once a week! This is one of the best ways to prepare for the live-coding portion of your project reviews!
 
+# Algorithms / Data Structures 
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+
+| Memory, Reference, Big O Notation | [Video] (https://youtu.be/sta27F_FoLA) | [Slides] (https://docs.google.com/presentation/d/1jkiaR9DjJz2tTTtYSA1cnG7vlS_H3cA0v7E5WYjXjSo/edit?usp=sharing) | [Code] (https://github.com/hsadoqi/algorithms_and_data_structures/tree/master/Big%20O%20Notation)
+
+
 # Weekly Assignments
+
+### Week 26: Nov 6, 2020
+#### This week's focus: Recognizing JS Events
+
+1. Day 1 - JS and Rails - Recognizing JavaScript Events (Functions in JavaScript) (3 Lessons)
+2. Day 2 - JS and Rails - Recognizing JavaScript Events (Acting on Events) (3 Lessons)
+3. Day 3 - JS and Rails - Recognizing JavaScript Events (JS Fundamentals: Scope Chain) (3 Lessons)
+4. Day 4 - JS and Rails - Recognizing JavaScript Events (Task Lister Lite) (4 Lessons)
+5. Day 5 - JS and Rails - Recognizing JavaScript Events (Finish) (3 Lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 25**|
+| JS Functions and Events | [Video](https://youtu.be/wmQoLyRs-Js) | [Slides](https://docs.google.com/presentation/d/1BJuM0vWvtJ9ptRE9TlvrZBPHSA-nPvpZj0gS76nz2MY/edit?usp=sharing) | [Code] (https://github.com/hsadoqi/js_functions_and_events)
+
 
 ### Week 25: Oct 26, 2020
 #### This week's focus: DOM and JS Fundamentals
