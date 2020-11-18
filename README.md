@@ -19,7 +19,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
-| Memory, Reference, Big O Notation | [Video] (https://youtu.be/sta27F_FoLA) | [Code] (https://github.com/hsadoqi/algorithms_and_data_structures/tree/master/Big%20O%20Notation) | [Slides] (https://docs.google.com/presentation/d/1jkiaR9DjJz2tTTtYSA1cnG7vlS_H3cA0v7E5WYjXjSo/edit?usp=sharing)
+| Memory, Reference, Big O Notation | [Video](https://youtu.be/sta27F_FoLA) | [Code](https://github.com/hsadoqi/algorithms_and_data_structures/tree/master/Big%20O%20Notation) | [Slides](https://docs.google.com/presentation/d/1jkiaR9DjJz2tTTtYSA1cnG7vlS_H3cA0v7E5WYjXjSo/edit?usp=sharing)
 
 
 # Weekly Assignments
@@ -36,7 +36,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 28**|
-| Putting It All Together | [Video](https://youtu.be/osqmyJGNarg) | [Frontend] (https://github.com/hsadoqi/to-do-list-frontend) 
+| Putting It All Together | [Video](https://youtu.be/osqmyJGNarg) | [Frontend](https://github.com/hsadoqi/to-do-list-frontend) 
 
 
 ### Week 27: Nov 9, 2020
@@ -52,7 +52,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 27**|
 | Using Fetch | [Video](https://youtu.be/x-oG3HE8ZB8) |  | [Slides](https://docs.google.com/presentation/d/1nVJe30fYVk_0qGX32wRk77l5tS5Cs_X__s08602afRQ/edit?usp=sharing)
-| Building a Rails API | [Video](https://youtu.be/r8NGahaNH5k)| [Backend] (https://github.com/hsadoqi/to-do-list-backend) |
+| Building a Rails API | [Video](https://youtu.be/r8NGahaNH5k)| [Backend](https://github.com/hsadoqi/to-do-list-backend) |
 
 ### Week 26: Nov 2, 2020
 #### This week's focus: Recognizing JS Events
@@ -66,7 +66,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 26**|
-| JS Functions and Events | [Video](https://youtu.be/wmQoLyRs-Js) | [Code] (https://github.com/hsadoqi/js_functions_and_events) | [Slides](https://docs.google.com/presentation/d/1BJuM0vWvtJ9ptRE9TlvrZBPHSA-nPvpZj0gS76nz2MY/edit?usp=sharing)
+| JS Functions and Events | [Video](https://youtu.be/wmQoLyRs-Js) | [Code](https://github.com/hsadoqi/js_functions_and_events) | [Slides](https://docs.google.com/presentation/d/1BJuM0vWvtJ9ptRE9TlvrZBPHSA-nPvpZj0gS76nz2MY/edit?usp=sharing)
 | JS Review | [Video](https://youtu.be/3AhcSnetu4o)| |
 
 ### Week 25: Oct 26, 2020
