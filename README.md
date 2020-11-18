@@ -24,7 +24,37 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 # Weekly Assignments
 
-### Week 26: Nov 6, 2020
+### Week 28: Nov 16, 2020
+#### This week's focus: Rails as an API
+
+1. Day 1 - JS and Rails - Rails as an API (Custom JSON Rendering Using Rails) (4 Lessons)
+2. Day 2 - JS and Rails - Rails as an API (Using the Fast JSON API Gem) (4 Lessons)
+3. Day 3 - JS and Rails - Rails as an API (Finish), JS and Rails - Formalizing JS: Data Types, Comparisons, Conditionals (JS Fundamentals: Arithmetic Lab) (4 Lessons)
+4. Day 4 - JS and Rails - Formalizing JS: Data Types, Comparisons, Conditionals (JS Fundamentals: Logical Operators) (3 Lessons)
+5. Day 5 - JS and Rails - Formalizing JS: Data Types, Comparisons, Conditionals (Finish) (4 Lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 28**|
+| Putting It All Together | [Video](https://youtu.be/osqmyJGNarg) | [Frontend] (https://github.com/hsadoqi/to-do-list-frontend) 
+
+
+### Week 27: Nov 9, 2020
+#### This week's focus: Communication with the Server
+
+1. Day 1 - JS and Rails - Communication with the Server (Fetch Lab) (3 Lessons)
+2. Day 2 - JS and Rails - Communication with the Server (JS Fundamentals Lab) (3 Lessons)
+3. Day 3 - JS and Rails - Communication with the Server (JS Fundamentals: Traversing Nested Objects) (3 Lessons)
+4. Day 4 - JS and Rails - Communication with the Server (Finish) (3 Lessons)
+5. Day 5 - JS and Rails - Putting It all Together
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 27**|
+| Using Fetch | [Video](https://youtu.be/x-oG3HE8ZB8) |  | [Slides](https://docs.google.com/presentation/d/1nVJe30fYVk_0qGX32wRk77l5tS5Cs_X__s08602afRQ/edit?usp=sharing)
+| Building a Rails API | [Video](https://youtu.be/r8NGahaNH5k)| [Backend] (https://github.com/hsadoqi/to-do-list-backend) |
+
+### Week 26: Nov 2, 2020
 #### This week's focus: Recognizing JS Events
 
 1. Day 1 - JS and Rails - Recognizing JavaScript Events (Functions in JavaScript) (3 Lessons)
@@ -35,7 +65,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
-|**Week 25**|
+|**Week 26**|
 | JS Functions and Events | [Video](https://youtu.be/wmQoLyRs-Js) | [Code] (https://github.com/hsadoqi/js_functions_and_events) | [Slides](https://docs.google.com/presentation/d/1BJuM0vWvtJ9ptRE9TlvrZBPHSA-nPvpZj0gS76nz2MY/edit?usp=sharing)
 | JS Review | [Video](https://youtu.be/3AhcSnetu4o)| |
 
