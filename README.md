@@ -38,6 +38,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 28**|
 | Putting It All Together | [Video](https://youtu.be/osqmyJGNarg) | [Frontend](https://github.com/hsadoqi/to-do-list-frontend) 
+| OOH - JS Review | [Video](https://youtu.be/Nl_P_qdXkWo)
 
 
 ### Week 27: Nov 9, 2020
