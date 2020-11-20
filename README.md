@@ -20,6 +20,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 | Memory, Reference, Big O Notation | [Video](https://youtu.be/sta27F_FoLA) | [Code](https://github.com/hsadoqi/algorithms_and_data_structures/tree/master/Big%20O%20Notation) | [Slides](https://docs.google.com/presentation/d/1jkiaR9DjJz2tTTtYSA1cnG7vlS_H3cA0v7E5WYjXjSo/edit?usp=sharing)
+| Recursion | [Video](https://youtu.be/7fOhA53rNY4) | [Code](https://github.com/hsadoqi/algorithms_and_data_structures/tree/master/Recursion)
 
 
 # Weekly Assignments
