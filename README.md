@@ -26,7 +26,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 # Weekly Assignments
 
 ### Week 29: Nov 23, 2020
-#### This week's focus: Rails as an API
+#### This week's focus: Advanced JS
 
 1. Day 1 - JS and Rails - ES6 Syntax Sugar (3 Lessons)
 2. Day 2 - JS and Rails - Advanced Function Usage (JS Advanced Functions: Collection Processing Methods) (4 Lessons)
