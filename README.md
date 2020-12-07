@@ -39,7 +39,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 28**|
 | Open Office Hours | [Video](https://youtu.be/OYQYtwwjCpM) | 
-| JS Build with Rails Backend  | [Video] (https://youtu.be/vKUNLXNKjwc) | [Frontend](https://github.com/hsadoqi/yik-yak-frontend) [Backend](https://github.com/hsadoqi/yik-yak-backend) | 
+| JS Build with Rails Backend  | [Video](https://youtu.be/vKUNLXNKjwc) | [Frontend](https://github.com/hsadoqi/yik-yak-frontend) and [Backend](https://github.com/hsadoqi/yik-yak-backend) | 
 
 
 ### Week 29: Nov 23, 2020
