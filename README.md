@@ -55,7 +55,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 28**|
 | ES6 Deep Dive Part 1 | [Video](https://youtu.be/7em0ef9s6dY) | 
-| ES6 Pt 2 & Object Oriented JavaScript | [Video] (https://youtu.be/Qd9Q181TU8A) | | [Slides] (https://docs.google.com/presentation/d/1L4fDt3mROBHhOj_0j0dL4lEw4uSvHz3wgv2UgLevAE4/edit?usp=sharing)
+| ES6 Pt 2 & Object Oriented JavaScript | [Video](https://youtu.be/Qd9Q181TU8A) | | [Slides](https://docs.google.com/presentation/d/1L4fDt3mROBHhOj_0j0dL4lEw4uSvHz3wgv2UgLevAE4/edit?usp=sharing)
 
 
 ### Week 28: Nov 16, 2020
@@ -133,7 +133,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 22**|
 | Authentication in Rails (without Devise) | [Video](https://youtu.be/82gg4n-_FOk) | [Code](https://github.com/hsadoqi/rails-auth-lecture)
-| Rails Project Requirements Walkthrough | [Video](https://www.youtube.com/watch?v=0kpZ7A8iBnw) | [Code] (https://github.com/hsadoqi/rails-proj-requirements)
+| Rails Project Requirements Walkthrough | [Video](https://www.youtube.com/watch?v=0kpZ7A8iBnw) | [Code](https://github.com/hsadoqi/rails-proj-requirements)
 | Rails Project Inspo Extravaganza | [Video](https://youtu.be/48Ofz8-L3jA)
 
 ##### Next week:
