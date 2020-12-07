@@ -21,9 +21,26 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | ------------- |:-------------:| ----------- | ------------------- |
 | Memory, Reference, Big O Notation | [Video](https://youtu.be/sta27F_FoLA) | [Code](https://github.com/hsadoqi/algorithms_and_data_structures/tree/master/Big%20O%20Notation) | [Slides](https://docs.google.com/presentation/d/1jkiaR9DjJz2tTTtYSA1cnG7vlS_H3cA0v7E5WYjXjSo/edit?usp=sharing)
 | Recursion | [Video](https://youtu.be/7fOhA53rNY4) | [Code](https://github.com/hsadoqi/algorithms_and_data_structures/tree/master/Recursion)
+| Memoization | [Video](https://youtu.be/Vm30Y7ylXiM) |
 
 
 # Weekly Assignments
+
+### Week 30: Nov 30, 2020
+#### This week's focus: Advanced JS
+
+1. Day 1 - JS and Rails - Object Orientation in JavaScript(OOJS: Methods Types) (5 Lessons)
+2. Day 2 - JS and Rails - Object Orientation in JavaScript (Finsh), JS and Rails - OO JavaScript: Inheritance (OOJS: Class Extension and Inheritance Extends) (4 Lessons)
+3. Day 3 - JS and Rails - OO JavaScript: Inheritance (Finish) (5 Lessons)
+4. Day 4 - JS and Rails - OO JavaScript: Prototpal Inheritance (OOJS: Predicting Constructor Effects) (4 Lessons)
+5. Day 5 - JS and Rails - OO JavaScript: Prototypal Inheritance (Finish) (4 Lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 28**|
+| Open Office Hours | [Video](https://youtu.be/OYQYtwwjCpM) | 
+| JS Build with Rails Backend  | [Video] (https://youtu.be/vKUNLXNKjwc) | [Frontend](https://github.com/hsadoqi/yik-yak-frontend) [Backend](https://github.com/hsadoqi/yik-yak-backend) | 
+
 
 ### Week 29: Nov 23, 2020
 #### This week's focus: Advanced JS
@@ -38,8 +55,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 28**|
 | ES6 Deep Dive Part 1 | [Video](https://youtu.be/7em0ef9s6dY) | 
-| ES6 Deep Dive Part 2 | |
-| Object Oriented JavaScript | |
+| ES6 Pt 2 & Object Oriented JavaScript | [Video] (https://youtu.be/Qd9Q181TU8A) | | [Slides] (https://docs.google.com/presentation/d/1L4fDt3mROBHhOj_0j0dL4lEw4uSvHz3wgv2UgLevAE4/edit?usp=sharing)
 
 
 ### Week 28: Nov 16, 2020
