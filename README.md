@@ -26,6 +26,15 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 # Weekly Assignments
 
+### Week 31: Dec 7, 2020
+#### This week's focus: Project Week
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 31**|
+| JS Project Requirements | [Video](https://youtu.be/EYHr0FVAUe0) | 
+| Open Office Hours  | [Video](https://youtu.be/Y_hUzWXgpHY) | 
+
 ### Week 30: Nov 30, 2020
 #### This week's focus: Advanced JS
 
@@ -37,7 +46,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
-|**Week 28**|
+|**Week 30**|
 | Open Office Hours | [Video](https://youtu.be/OYQYtwwjCpM) | 
 | JS Build with Rails Backend  | [Video](https://youtu.be/vKUNLXNKjwc) | [Frontend](https://github.com/hsadoqi/yik-yak-frontend) and [Backend](https://github.com/hsadoqi/yik-yak-backend) | 
 
@@ -53,7 +62,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
-|**Week 28**|
+|**Week 29**|
 | ES6 Deep Dive Part 1 | [Video](https://youtu.be/7em0ef9s6dY) | 
 | ES6 Pt 2 & Object Oriented JavaScript | [Video](https://youtu.be/Qd9Q181TU8A) | | [Slides](https://docs.google.com/presentation/d/1L4fDt3mROBHhOj_0j0dL4lEw4uSvHz3wgv2UgLevAE4/edit?usp=sharing)
 
