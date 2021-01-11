@@ -6,12 +6,7 @@ Hanaa Sadoqi - hanaa.sadoqi@flatironschool.com - [Booking Link](https://go.onceh
 ## Your Educational Coach: 
 Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](http://lauralacy-thompson.youcanbook.me/)
 
-## Helpful Links 
-
-1. [Zoom link for Pods, 1:1's and Study Groups](https://flatironschool.zoom.us/my/lantzchatroom?pwd=bU1QZC9PV0t5SUx2cmhxdGQ0NVRBdz09)
-2. [Link for Student Weekly Availability Calendar](https://www.when2meet.com/?9548777-lk3cq)
-
-## WELCOME TO JavaScript!
+## WELCOME TO React!
 
 ### Be sure you are pair programming with someone at least once a week! This is one of the best ways to prepare for the live-coding portion of your project reviews!
 
@@ -25,6 +20,35 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 
 # Weekly Assignments
+
+### Week 34: Jan 11, 2020
+#### This week's focus: React
+
+1. Day 1 - React - Props and State (Modular Code) (3 Lessons)
+2. Day 2 - React - Props and State (Simple State Lab) (4 Lessons)
+3. Day 3 - React - Props and State (Finish), React - Events (Event System Lab) (4 Lessons)
+4. Day 4 - React - Events (Finish)
+5. Day 5 - React - Forms (3 Lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 34**|
+
+
+### Week 33: Jan 4, 2020
+#### This week's focus: Intro to React
+
+1. Day 1 - React - Node Package Manager (2 Lessons)
+2. Day 2 - React - Introduction to React (This Is React Readme) (1 Lesson)
+3. Day 3 - React - Introduction to React (Finish) (2 Lessons)
+4. Day 4 - React - Introduction to Components (Static Components Lab) (2 Lessons)
+5. Day 5 - React - Introduction to Components (Finish) (2 Lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 33**|
+| Intro to React | [Video](https://youtu.be/BMwUZWvJWy0 ) | 
+| React State & Events  | [Video](https://www.youtube.com/watch?v=rp47584aEbA&feature=youtu.be) | [Code](https://github.com/Enoch2k2/react-testing-052620-ft/tree/react-state-and-events)
 
 ### Week 31: Dec 7, 2020
 #### This week's focus: Project Week
@@ -49,7 +73,6 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 |**Week 30**|
 | Open Office Hours | [Video](https://youtu.be/OYQYtwwjCpM) | 
 | JS Build with Rails Backend  | [Video](https://youtu.be/vKUNLXNKjwc) | [Frontend](https://github.com/hsadoqi/yik-yak-frontend) and [Backend](https://github.com/hsadoqi/yik-yak-backend) | 
-
 
 ### Week 29: Nov 23, 2020
 #### This week's focus: Advanced JS
