@@ -34,6 +34,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 34**|
 | Intro to React & React State and Props | [Video](https://youtu.be/JqMuTfNUDcA) | [Code](https://github.com/hsadoqi/react_todos) | [Intro to React Slides](https://docs.google.com/presentation/d/1BYIktdZmdq_bAEnbeWyAgdpnxH8xvwIZEG7uzPQLBos/edit?usp=sharing) [React State and Props Slides](https://docs.google.com/presentation/d/15T3n5Q_8V0g7qCssEXnOFCmo63N59cKumqz5IoQS8sQ/edit?usp=sharing)
+| React Events and Forms | [Video](https://youtu.be/72dDhemq-qo) | [Code](https://github.com/hsadoqi/react_todos) | [Slides](https://docs.google.com/presentation/d/1lNYEatrqN1j6exUn3FPM1pPHQ0SdIZwkUXFA_2a55YY/edit?usp=sharing)
 
 
 ### Week 33: Jan 4, 2020
