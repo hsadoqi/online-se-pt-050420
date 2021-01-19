@@ -21,6 +21,22 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 # Weekly Assignments
 
+### Week 35: Jan 18, 2020
+#### This week's focus: React
+
+1. Day 1 - React - Lifecycle Methods (Component Mounting and Unmounting Readme) (2 Lessons)
+2. Day 2 - React - Lifecycle Methods (Component Mounting Lab - Pancake Flipper) (2 Lessons)
+3. Day 3 - React - Lifecycle Methods (Finish) (2 Lessons)
+4. Day 4 - React - Async React (Async Fetch Lab) (2 Lessons)
+5. Day 5 - React - Async React (Finish) (1 Lesson)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 35**|
+| React Lifecycle Methods | 
+| Presentational & Container Components |
+
+
 ### Week 34: Jan 11, 2020
 #### This week's focus: React
 
