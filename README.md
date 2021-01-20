@@ -33,7 +33,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 35**|
-| React Lifecycle Methods | | [Code](https://github.com/hsadoqi/react_todos) | [Slides](https://docs.google.com/presentation/d/1IsIjhZkJY0_B5USkCxidWkzSqTTihpoPOE0XcRfnaWE/edit?usp=sharing)
+| React Lifecycle Methods and Async React | [Video](https://www.youtube.com/watch?v=72dDhemq-qo) | [Code](https://github.com/hsadoqi/react_todos) | [Slides](https://docs.google.com/presentation/d/1IsIjhZkJY0_B5USkCxidWkzSqTTihpoPOE0XcRfnaWE/edit?usp=sharing)
 | Presentational & Container Components |
 
 
