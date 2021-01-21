@@ -275,66 +275,6 @@ Project Week!
 | Intro to Rails | [Video](https://drive.google.com/file/d/1VzVb2-S47oxQy2c-z-xhB0IqxL6qFeG1/view?usp=sharing)
 | Rails Models and RESTful Routes | [Video](https://youtu.be/cB8FSzjSLR8)
 
-
-# Pod Assignments
-
-## Pods are your primary point of contact with your Cohort Lead every week. Attendance will be tracked, and it's the best way for both of us to assess your level of understanding each week.  Please come prepared with your questions and make every effort to attend each week.
-
-### I make pod assignments as much as possible based on student availability as submitted.  
-
-### If you cannot attend your scheduled pod on a given week, please notify me and arrange to attend a different pod that week.
-
-| Pod Name | Date & Time | Students |
-| ----- | ----- | ----- |
-| **Borg** | **Mondays, 6pm ET** | 
-| | Billy F | Marvin R
-| | Morgan C | Dustin B
-| Kevin B | Ghameerah M | Vianka R
-| **Hopper** | **Tuesdays, 8pm ET** | 
-| | Amal A | Catheryn S
-| Victor W | Kiran R | Emeka K
-| **Fox** | **Wednesdays, 4pm ET** |
-| | Ian H | Justin Z
-| Jonathan E | Kasey A | Guillermo M
-| **Turing** | **Wednesdays, 9pm ET** | 
-| | Cedric J | Tommy W
-| Zachary L | Matt F | Isabella H
-| **Lovelace** | **Thursdays, 11am ET** | 
-| | Richard C | Jeff B
-| Jenn P | Tyler C | Jack Q
-| **Windsor** | **Thursdays, 5pm ET** | 
-| Ben P | Ryan D | Ian B
-| Anne F | Kamille L | Thanh P
-| **Tang** | **Fridays, 6:30pm ET** | 
-| Dang N | Oscar O | Valentina P
-| Patrick A | Daniel K | James R
-
-# Pair Programming Assignments
-
-### Please contact your partner below and arrange a weekly time to meet for pair programming.  You can use [this calendar](https://www.when2meet.com/?9139773-MqhEY) to help you find a time that works. If you cannot find any time, let me know and I'll help you find new partners.  If you have any questions what you should do, rewatch the video from First Mile linked below, and/or see these [best practices](https://github.com/learn-co-curriculum/pairing-best-practices).  When you have done your pair programming for the week, please submit [this very short form](https://forms.gle/DsiBCPXm1TFU88dz5)
-
-| Student | Student | Student |
-| ----- | ----- | ----- |
-|Victor Williams|kiran ram||
-|Dustin Blanton|Amal Abdu|||
-|Billy Ferrara|Zachary Lynch||
-|Ghameerah McCullers|Guillermo Martinez||
-|Emeka Kanu|Jack Quinoa||
-|Kamille Longalong|Anne Fausto||
-|Jennifer Prince|Marvin Reyes||
-|Dang Nguyen|isabella g henriques||
-|Morgan Collado|Vianka Rivera||
-|Catheryne Small|James Rogers||
-|Patrick A.|Ryan Davey||
-|Ben Parish|Matt Farncombe||
-|Cedric Joaquin|Kevin Boston||
-|Valentina Panic|Tyler Croley||
-|Richard Cho|Thanh Pham||
-|Daniel Kwon|Oscar Ore||
-|Jonathan East|Ian Hutson||
-|Ian Bumatay|Justin R. Zweifel||
-|Jeff Bai|Kasey Arnold|Tommy Werner|
-
 # Study Group Videos and Code
 
 | Topic         | Video         | Code/Other | Repl/other resources|
