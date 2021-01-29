@@ -21,6 +21,23 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 # Weekly Assignments
 
+### Week 36: Jan 25, 2020
+#### This week's focus: React Routing
+
+1. Day 1 - React - Advanced Components (Presentational Components Lab) (3 Lessons)
+2. Day 2 - React - Advanced Components (Finish) (3 Lessons)
+3. Day 3 - React - React: Under the Hood (Webpack and React) (3 Lessons)
+4. Day 4 - React - React: Under the Hood (Finish), React - Client Side Routing (Introduction to React Routing) (3 Lessons)
+5. Day 5 - React - Client Side Routing (Finish) (3 Lessons )
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 35**|
+| Intro to Client Side Routing | [Video](https://youtu.be/rPIP1Y7fPCs) | [Code](https://github.com/hsadoqi/react_todos) | [Slides]((https://docs.google.com/presentation/d/1wVnjV2jAOhL_4u9UBjA2x1ZybEYkqWwltPdq7s3pxqg/edit?usp=sharing))
+| Open Office Hours | [Video](https://youtu.be/1cm0OZg7KRg) | [Code](https://github.com/hsadoqi/react-todos)
+
+
+
 ### Week 35: Jan 18, 2020
 #### This week's focus: React
 
@@ -33,8 +50,8 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 35**|
-| React Lifecycle Methods and Async React | [Video](https://www.youtube.com/watch?v=72dDhemq-qo) | [Code](https://github.com/hsadoqi/react_todos) | [Slides](https://docs.google.com/presentation/d/1IsIjhZkJY0_B5USkCxidWkzSqTTihpoPOE0XcRfnaWE/edit?usp=sharing)
-| Presentational & Container Components |
+| React Lifecycle Methods and Async React | [Video](https://youtu.be/GOo9AJWWrnM) | [Code](https://github.com/hsadoqi/react_todos) | [Slides](https://docs.google.com/presentation/d/1IsIjhZkJY0_B5USkCxidWkzSqTTihpoPOE0XcRfnaWE/edit?usp=sharing)
+| Presentational & Container Components | [Video](https://youtu.be/_ZAr1I5_QfM) | [Code](https://github.com/hsadoqi/react_todos) | [Slides](https://docs.google.com/presentation/d/1Vornh0E2a1piRC2K_8Qpz-V_SUZ_QOeKDkGyJ33nKtc/edit?usp=sharing)
 
 
 ### Week 34: Jan 11, 2020
