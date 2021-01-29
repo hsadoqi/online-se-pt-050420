@@ -32,7 +32,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
-|**Week 35**|
+|**Week 36**|
 | Intro to Client Side Routing | [Video](https://youtu.be/rPIP1Y7fPCs) | [Code](https://github.com/hsadoqi/react_todos) | [Slides]((https://docs.google.com/presentation/d/1wVnjV2jAOhL_4u9UBjA2x1ZybEYkqWwltPdq7s3pxqg/edit?usp=sharing))
 | Open Office Hours | [Video](https://youtu.be/1cm0OZg7KRg) | [Code](https://github.com/hsadoqi/react-todos)
 
