@@ -21,7 +21,22 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 # Weekly Assignments
 
-### Week 36: Jan 25, 2020
+### Week 37: Feb 1, 2021
+#### This week's focus: Redux
+
+1. Day 1 - Redux - Building Redux (Redux Reducer) (3 Lessons)
+2. Day 2 - Redux - Building Redux (Redux Dispatch with Event Listeners) (3 Lessons)
+3. Day 3 - Redux - Building Redux (Finish), Redux - Redux Library (Intro to Redux Library Codealong) (3 Lessons)
+4. Day 4 - Redux - Redux Library (Map State to Props lab) (3 Lessons)
+5. Day 5 - Redux - Redux Library (Finish) (4 Lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 37**|
+| Intro to Redux/mapStateToProps | 
+| mapDispatchToProps | 
+
+### Week 36: Jan 25, 2021
 #### This week's focus: React Routing
 
 1. Day 1 - React - Advanced Components (Presentational Components Lab) (3 Lessons)
@@ -38,7 +53,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 
 
 
-### Week 35: Jan 18, 2020
+### Week 35: Jan 18, 2021
 #### This week's focus: React
 
 1. Day 1 - React - Lifecycle Methods (Component Mounting and Unmounting Readme) (2 Lessons)
@@ -54,7 +69,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Presentational & Container Components | [Video](https://youtu.be/_ZAr1I5_QfM) | [Code](https://github.com/hsadoqi/react_todos) | [Slides](https://docs.google.com/presentation/d/1Vornh0E2a1piRC2K_8Qpz-V_SUZ_QOeKDkGyJ33nKtc/edit?usp=sharing)
 
 
-### Week 34: Jan 11, 2020
+### Week 34: Jan 11, 2021
 #### This week's focus: React
 
 1. Day 1 - React - Props and State (Modular Code) (3 Lessons)
@@ -70,7 +85,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | React Events and Forms | [Video](https://youtu.be/72dDhemq-qo) | [Code](https://github.com/hsadoqi/react_todos) | [Slides](https://docs.google.com/presentation/d/1lNYEatrqN1j6exUn3FPM1pPHQ0SdIZwkUXFA_2a55YY/edit?usp=sharing)
 
 
-### Week 33: Jan 4, 2020
+### Week 33: Jan 4, 2021
 #### This week's focus: Intro to React
 
 1. Day 1 - React - Node Package Manager (2 Lessons)
