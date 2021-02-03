@@ -33,7 +33,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 37**|
-| Intro to Redux/mapStateToProps | 
+| Intro to Redux/mapStateToProps | [Video](https://youtu.be/O1kLF8Asx3Q) | [Code](https://github.com/hsadoqi/react_todos) | [Slides](https://docs.google.com/presentation/d/1iCalf1xFGO5nHZOIM94Avlc9FXyW2Cw3YrNkSbsZaVY/edit?usp=sharing)
 | mapDispatchToProps | 
 
 ### Week 36: Jan 25, 2021
