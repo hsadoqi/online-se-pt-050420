@@ -20,6 +20,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Linked Lists | [Video](https://youtu.be/ih2vgwr3gWs) | [Code](https://github.com/hsadoqi/algorithms_and_data_structures/tree/master/Linked%20Lists)
 
 
+
 # Weekly Assignments
 
 ### Week 37: Feb 1, 2021
