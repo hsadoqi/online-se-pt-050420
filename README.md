@@ -17,6 +17,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Memory, Reference, Big O Notation | [Video](https://youtu.be/sta27F_FoLA) | [Code](https://github.com/hsadoqi/algorithms_and_data_structures/tree/master/Big%20O%20Notation) | [Slides](https://docs.google.com/presentation/d/1jkiaR9DjJz2tTTtYSA1cnG7vlS_H3cA0v7E5WYjXjSo/edit?usp=sharing)
 | Recursion | [Video](https://youtu.be/7fOhA53rNY4) | [Code](https://github.com/hsadoqi/algorithms_and_data_structures/tree/master/Recursion)
 | Memoization | [Video](https://youtu.be/Vm30Y7ylXiM) |
+| Linked Lists | [Video](https://youtu.be/ih2vgwr3gWs) | [Code](https://github.com/hsadoqi/algorithms_and_data_structures/tree/master/Linked%20Lists)
 
 
 # Weekly Assignments
@@ -34,7 +35,7 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 37**|
 | Intro to Redux/mapStateToProps | [Video](https://youtu.be/O1kLF8Asx3Q) | [Code](https://github.com/hsadoqi/react_todos) | [Slides](https://docs.google.com/presentation/d/1iCalf1xFGO5nHZOIM94Avlc9FXyW2Cw3YrNkSbsZaVY/edit?usp=sharing)
-| mapDispatchToProps | 
+| mapDispatchToProps | [Video](https://youtu.be/3Xa70TM-tx0) | [Code](https://github.com/hsadoqi/react_todos) | [Slides](https://docs.google.com/presentation/d/1qN_RXXlQLO7wJdV0J5stfXVp5TYTTTPRHQuqQadDvQ4/edit?usp=sharing)
 
 ### Week 36: Jan 25, 2021
 #### This week's focus: React Routing
