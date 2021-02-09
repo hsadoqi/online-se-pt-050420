@@ -18,10 +18,27 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | Recursion | [Video](https://youtu.be/7fOhA53rNY4) | [Code](https://github.com/hsadoqi/algorithms_and_data_structures/tree/master/Recursion)
 | Memoization | [Video](https://youtu.be/Vm30Y7ylXiM) |
 | Linked Lists | [Video](https://youtu.be/ih2vgwr3gWs) | [Code](https://github.com/hsadoqi/algorithms_and_data_structures/tree/master/Linked%20Lists)
+| Stacks and Queues | |
 
 
 
 # Weekly Assignments
+
+### Week 38: Feb 8, 2021
+#### This week's focus: Redux
+
+1. Day 1 - Redux - React Redux Continued (Redux Forms Codealong) (2 Lessons)
+2. Day 2 - Redux - React Redux Continued (Cooking with Redux) (2 Lessons)
+3. Day 3 - Redux - React Redux Continued (Redux Delete Codealong) (2 Lessons)
+4. Day 4 - Redux - React Redux Continued (Finish) (2 Lessons)
+5. Day 5 - Redux - Async Redux (2 Lessons)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 38**|
+| React Code Challenge Review | [Video](https://www.youtube.com/watch?v=JsIa31z1IEc) | [Code](https://github.com/hsadoqi/bot-battlr/tree/solution) | |
+| Async Redux | | |
+| Project Build | | |
 
 ### Week 37: Feb 1, 2021
 #### This week's focus: Redux
