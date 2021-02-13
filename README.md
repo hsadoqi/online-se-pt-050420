@@ -37,8 +37,8 @@ Laura Lacy-Thompson - laura.lacy-thompson@flatironschool.com - [Booking Link](ht
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 38**|
 | React Code Challenge Review | [Video](https://www.youtube.com/watch?v=JsIa31z1IEc) | [Code](https://github.com/hsadoqi/bot-battlr/tree/solution) | |
-| Async Redux | [Video](https://youtu.be/lz2-Egt_02I) | [Frontend](https://github.com/hsadoqi/react_todos) [Backend](https://github.com/hsadoqi/yik-yak-backend) | [Slides](https://docs.google.com/presentation/d/1dx6qc1aIu_WCgwNj1fEOYFqeqV75NqwPL9jDZ4IMHyQ/edit?usp=sharing) |
-| Project Build | | |
+| Async Redux | [Video](https://youtu.be/lz2-Egt_02I) | [Frontend](https://github.com/hsadoqi/react_todos) [Backend](https://github.com:hsadoqi/to-do-list-backend.git) | [Slides](https://docs.google.com/presentation/d/1dx6qc1aIu_WCgwNj1fEOYFqeqV75NqwPL9jDZ4IMHyQ/edit?usp=sharing) |
+| Project Build | [Video](https://youtu.be/GT7Ydv0sUSg) | [Frontend](https://github.com/hsadoqi/react_todos) [Backend](https://github.com:hsadoqi/to-do-list-backend.git) |
 
 ### Week 37: Feb 1, 2021
 #### This week's focus: Redux
